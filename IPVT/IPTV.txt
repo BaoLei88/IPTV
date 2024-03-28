@@ -1459,6 +1459,62 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 #EXTINF:-1 tvg-id="咪咕" tvg-name="咪咕视频 38" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/咪咕视频.png" group-title="📺 咪咕視頻",咪咕直播 38
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 
+#📺 YOUTUBE直播
+#EXTINF:-1 tvg-name="中天新闻" group-title="YouTube「P」",中天新聞
+https://yang-1989.eu.org/youtube/oIgbl7t0S_w
+#EXTINF:-1 group-title="YouTube「P」",中天新聞2
+https://yang-1989.eu.org/youtube/WPfPjbOLNfE
+#EXTINF:-1 group-title="YouTube「P」",東森新聞
+https://yang-1989.eu.org/youtube/2dfAzcDf8Zg
+#EXTINF:-1 group-title="YouTube「P」",東森財經新聞
+https://yang-1989.eu.org/youtube/WHEPzbFA3hw
+#EXTINF:-1 group-title="YouTube「P」",東森財經股市
+https://yang-1989.eu.org/youtube/LbS-xQ67fos
+#EXTINF:-1 group-title="YouTube「P」",台視新聞
+https://yang-1989.eu.org/youtube/xL0ch83RAK8
+#EXTINF:-1 group-title="YouTube「P」",中視新聞
+https://yang-1989.eu.org/youtube/TCnaIE_SAtM
+#EXTINF:-1 group-title="YouTube「P」",寰宇新聞
+https://yang-1989.eu.org/youtube/6IquAgfvYmc
+#EXTINF:-1 group-title="YouTube「P」",公視新聞
+https://yang-1989.eu.org/youtube/quwqlazU-c8
+#EXTINF:-1 tvg-name="cctv4" group-title="YouTube「P」",CCTV4 中文国际
+https://yang-1989.eu.org/youtube/bEZYrBMYNNg
+#EXTINF:-1 group-title="YouTube「P」",鳳凰衛視資訊
+https://yang-1989.eu.org/youtube/HFib76ySpbU
+#EXTINF:-1 group-title="YouTube「P」",民視新聞
+https://yang-1989.eu.org/youtube/ylYJSBUgaMA
+#EXTINF:-1 group-title="YouTube「P」",鏡新聞
+https://yang-1989.eu.org/youtube/5n0y6b0Q25o
+#EXTINF:-1 group-title="YouTube「P」",中視經典綜藝
+https://yang-1989.eu.org/youtube/ADDSmXoPDY8
+#EXTINF:-1 group-title="YouTube「P」",TVBS NEWS
+https://yang-1989.eu.org/youtube/m_dhMSvUCIc
+#EXTINF:-1 group-title="YouTube「P」",三立新聞
+https://yang-1989.eu.org/youtube/oZdzzvxTfUY
+#EXTINF:-1 group-title="YouTube「P」",三立 iNEWS
+https://yang-1989.eu.org/youtube/CKjSm5ZeehE
+#EXTINF:-1 group-title="YouTube「P」",CNA
+https://yang-1989.eu.org/youtube/XWq5kBlakcQ
+#EXTINF:-1 group-title="YouTube「P」",新唐人亞太電視
+https://yang-1989.eu.org/youtube/WIhgU_mc05A
+#EXTINF:-1 group-title="YouTube「P」",Eight FM
+https://yang-1989.eu.org/youtube/o1ipHJUfFTM
+#EXTINF:-1 group-title="YouTube「P」",ANN NEWS
+https://yang-1989.eu.org/youtube/coYw-eVU0Ks
+#EXTINF:-1 group-title="YouTube「P」",TBS NEWS
+https://yang-1989.eu.org/youtube/ohI356mwBp8
+#EXTINF:-1 group-title="YouTube「P」",ABC NEWS
+https://yang-1989.eu.org/youtube/gN0PZCe-kwQ
+#EXTINF:-1 group-title="YouTube「P」",NHK NEWS
+https://yang-1989.eu.org/youtube/f0lYkdA-Gtw
+#EXTINF:-1 group-title="YouTube「P」",TAIWAN+
+https://yang-1989.eu.org/youtube/ovzTfk5CmIE
+#EXTINF:-1 group-title="YouTube「P」",DW NEWS
+https://yang-1989.eu.org/youtube/pqabxBKzZ6M
+#EXTINF:-1 group-title="YouTube「P」",8视界
+https://yang-1989.eu.org/youtube/RvSOIM620bA
+
 #📺 18禁频道
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道 1" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 1
 RUSSIAN Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
