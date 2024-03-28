@@ -1460,699 +1460,699 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 
 #📺 YOUTUBE直播
-#EXTINF:-1 tvg-name="中天新闻" group-title="YouTube「P」",中天新聞
+#EXTINF:-1 tvg-name="中天新闻" group-title="YouTube直播",中天新聞
 https://yang-1989.eu.org/youtube/oIgbl7t0S_w
-#EXTINF:-1 group-title="YouTube「P」",中天新聞2
+#EXTINF:-1 group-title="YouTube直播",中天新聞2
 https://yang-1989.eu.org/youtube/WPfPjbOLNfE
-#EXTINF:-1 group-title="YouTube「P」",東森新聞
+#EXTINF:-1 group-title="YouTube直播",東森新聞
 https://yang-1989.eu.org/youtube/2dfAzcDf8Zg
-#EXTINF:-1 group-title="YouTube「P」",東森財經新聞
+#EXTINF:-1 group-title="YouTube直播",東森財經新聞
 https://yang-1989.eu.org/youtube/WHEPzbFA3hw
-#EXTINF:-1 group-title="YouTube「P」",東森財經股市
+#EXTINF:-1 group-title="YouTube直播",東森財經股市
 https://yang-1989.eu.org/youtube/LbS-xQ67fos
-#EXTINF:-1 group-title="YouTube「P」",台視新聞
+#EXTINF:-1 group-title="YouTube直播",台視新聞
 https://yang-1989.eu.org/youtube/xL0ch83RAK8
-#EXTINF:-1 group-title="YouTube「P」",中視新聞
+#EXTINF:-1 group-title="YouTube直播",中視新聞
 https://yang-1989.eu.org/youtube/TCnaIE_SAtM
-#EXTINF:-1 group-title="YouTube「P」",寰宇新聞
+#EXTINF:-1 group-title="YouTube直播",寰宇新聞
 https://yang-1989.eu.org/youtube/6IquAgfvYmc
-#EXTINF:-1 group-title="YouTube「P」",公視新聞
+#EXTINF:-1 group-title="YouTube直播",公視新聞
 https://yang-1989.eu.org/youtube/quwqlazU-c8
-#EXTINF:-1 tvg-name="cctv4" group-title="YouTube「P」",CCTV4 中文国际
+#EXTINF:-1 tvg-name="cctv4" group-title="YouTube直播",CCTV4 中文国际
 https://yang-1989.eu.org/youtube/bEZYrBMYNNg
-#EXTINF:-1 group-title="YouTube「P」",鳳凰衛視資訊
+#EXTINF:-1 group-title="YouTube直播",鳳凰衛視資訊
 https://yang-1989.eu.org/youtube/HFib76ySpbU
-#EXTINF:-1 group-title="YouTube「P」",民視新聞
+#EXTINF:-1 group-title="YouTube直播",民視新聞
 https://yang-1989.eu.org/youtube/ylYJSBUgaMA
-#EXTINF:-1 group-title="YouTube「P」",鏡新聞
+#EXTINF:-1 group-title="YouTube直播",鏡新聞
 https://yang-1989.eu.org/youtube/5n0y6b0Q25o
-#EXTINF:-1 group-title="YouTube「P」",中視經典綜藝
+#EXTINF:-1 group-title="YouTube直播",中視經典綜藝
 https://yang-1989.eu.org/youtube/ADDSmXoPDY8
-#EXTINF:-1 group-title="YouTube「P」",TVBS NEWS
+#EXTINF:-1 group-title="YouTube直播",TVBS NEWS
 https://yang-1989.eu.org/youtube/m_dhMSvUCIc
-#EXTINF:-1 group-title="YouTube「P」",三立新聞
+#EXTINF:-1 group-title="YouTube直播",三立新聞
 https://yang-1989.eu.org/youtube/oZdzzvxTfUY
-#EXTINF:-1 group-title="YouTube「P」",三立 iNEWS
+#EXTINF:-1 group-title="YouTube直播",三立 iNEWS
 https://yang-1989.eu.org/youtube/CKjSm5ZeehE
-#EXTINF:-1 group-title="YouTube「P」",CNA
+#EXTINF:-1 group-title="YouTube直播",CNA
 https://yang-1989.eu.org/youtube/XWq5kBlakcQ
-#EXTINF:-1 group-title="YouTube「P」",新唐人亞太電視
+#EXTINF:-1 group-title="YouTube直播",新唐人亞太電視
 https://yang-1989.eu.org/youtube/WIhgU_mc05A
-#EXTINF:-1 group-title="YouTube「P」",Eight FM
+#EXTINF:-1 group-title="YouTube直播",Eight FM
 https://yang-1989.eu.org/youtube/o1ipHJUfFTM
-#EXTINF:-1 group-title="YouTube「P」",ANN NEWS
+#EXTINF:-1 group-title="YouTube直播",ANN NEWS
 https://yang-1989.eu.org/youtube/coYw-eVU0Ks
-#EXTINF:-1 group-title="YouTube「P」",TBS NEWS
+#EXTINF:-1 group-title="YouTube直播",TBS NEWS
 https://yang-1989.eu.org/youtube/ohI356mwBp8
-#EXTINF:-1 group-title="YouTube「P」",ABC NEWS
+#EXTINF:-1 group-title="YouTube直播",ABC NEWS
 https://yang-1989.eu.org/youtube/gN0PZCe-kwQ
-#EXTINF:-1 group-title="YouTube「P」",NHK NEWS
+#EXTINF:-1 group-title="YouTube直播",NHK NEWS
 https://yang-1989.eu.org/youtube/f0lYkdA-Gtw
-#EXTINF:-1 group-title="YouTube「P」",TAIWAN+
+#EXTINF:-1 group-title="YouTube直播",TAIWAN+
 https://yang-1989.eu.org/youtube/ovzTfk5CmIE
-#EXTINF:-1 group-title="YouTube「P」",DW NEWS
+#EXTINF:-1 group-title="YouTube直播",DW NEWS
 https://yang-1989.eu.org/youtube/pqabxBKzZ6M
-#EXTINF:-1 group-title="YouTube「P」",8视界
+#EXTINF:-1 group-title="YouTube直播",8视界
 https://yang-1989.eu.org/youtube/RvSOIM620bA
 
 #📺 18禁频道
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道 1" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 1
+#EXTINF:-1 group-title="18禁频道",18禁频道1
 RUSSIAN Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道 2" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 2
+#EXTINF:-1 group-title="18禁频道",18禁频道1
 Rough TV,http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道 3" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 3
+#EXTINF:-1 group-title="18禁频道",18禁频道1
 XX,http://live.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 XX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 XX,http://cdn.redtraffic.net/rough.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 VERAPORN GROUP SEX1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12141/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Xpanded TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6269/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 RUSSIAN TV,http://cdn.redtraffic.net/russian.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 XX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12177/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Rough Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6250/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Venus HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12133/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://168.181.122.234:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 VF Cartoon 18+,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/11117/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 VERAPORN GROUP SEX2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12142/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 RED Lips,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6271/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Русская Ночь orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9344/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 XY Plus HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6288/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12118/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 TUSHY TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6261/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12188/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 VERAPORN BIG TITS,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12145/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fap TV BBW,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6207/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Vintage,http://live.redtraffic.xyz/vintage.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 VERAPORN 4K,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12137/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 RK TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6249/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 X-MO,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6285/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 True Amateurs,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6260/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 SEX With Muslims,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6252/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BrazzersHD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6181/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12113/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6182/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道
+#EXTINF:-1 group-title="18禁频道",18禁频道1
 Кино 18+ International,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18076/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Trans Angels,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6259/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 THREESOM,http://cdn.redtraffic.net/threesome.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 XY Mix HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6287/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Blonde,http://cdn.redtraffic.net/blonde.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 SEXArt,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6253/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BigDick,http://cdn.redtraffic.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6176/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BigAss,http://cdn.redtraffic.net/bigass.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz:80/bigass.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/bigass.m3u840c3c321681a14082b2b5770828910904e38ae2d1176ac1084582c805cce0795
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Blowjob,http://cdn.redtraffic.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 #http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6180/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Song2 TV,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Brunette,http://cdn.redtraffic.net/brunette.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6183/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Cum Louder,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6189/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 HOT,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6275/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Alex Legend,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12193/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 DE Lust pur HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20024/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Pornstar Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6243/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BBC Pie,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12164/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BLACKED,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6178/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dorcel Club,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6197/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic 7,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6294/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6294/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hardcore Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6219/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hitzefrei HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6220/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 JapanHDV,http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6225/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6225/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6225/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6225/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/6225/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6225/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://05293b01.ottolok.net/iptv/5ZBKQAEG9QQXS2/6225/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Little Asians HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6230/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 MILF,http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/milf.m3u8#http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PASSIE TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12136/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Public Agent,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12119/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12116/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6246/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Deep Lush,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12139/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic 5,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12150/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic 8,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6295/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12153/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6295/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fap TV Lesbian,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6209/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hustler HD Europe,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/244/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 SINematica,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6255/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 MetArt HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12160/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6233/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Prokop TV XXX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19401/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Balkan Erotic,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6270/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Big Tits,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6177/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.redtraffic.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Monsters of Cock,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6235/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Cum4k,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6190/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12157/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 EROX XXX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/5015/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fetish Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6213/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Evil Angel HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6199/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6201/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 TEEN Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6256/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BLUE HUSTLER,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/1064/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Babes TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6172/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Banana Fever,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12168/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 KinoXXX,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/11052/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 RED XXX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6281/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 CineMan ExExEx TWO,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20090/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic 4,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6292/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6292/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6241/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic 6,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12151/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6293/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6293/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 FemJoy,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6212/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Gangbang,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6214/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Interracial Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6224/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Kinoshka Adult HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18060/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 O LA LA orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9068/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PLAYBOY LA,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6280/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Asian Girls,http://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dad Crush,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12154/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dane Jones,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12143/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic3,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6240/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6291/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12148/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6291/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hot Pleasure,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6277/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 LATINA TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12172/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 MYLF TV HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6236/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 ox-ax HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6239/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Anal Time,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12181/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Bang Bros HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6173/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Bang POV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12166/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Cuckold,http://live.redtraffic.xyz/cuckold.m3u8#http://live.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 DE Penthouse Passion HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20025/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dorcel TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12131/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 DUSK,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6198/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12129/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic 2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6290/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12147/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6290/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hot Guys Fuck,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6223/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 LEO TV FHD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6272/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12123/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Liberty Эротика 4K,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/16069/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 POV Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6244/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Brand New Amateurs,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12162/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Cuckold Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6188/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 DDF Network,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6194/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Digital Desire HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6195/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dirty Wives Club,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12122/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Euro Girls On Girls,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12108/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Family Strokes,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12156/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Latina Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6226/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6226/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 POV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12175/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 DE Playboy Europe,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20026/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Deep Throat Sirens,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12138/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Got MYLF,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6216/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hustler HD orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9065/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PASSION XXX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12120/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BAG U,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12170/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Big Ass Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6175/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Evolved Fights,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6200/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Anal Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6167/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PLAYBOY 3,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 TEEN Girls,http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 VIVID TV EUROPE,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6264/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Redlight HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9066/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12117/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://213.226.69.130/iptv/BF9GWX8VNPYM9X/242/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Brazzers Europa 2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/910/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 RK Prime,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6248/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Visit-X TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6263/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 XXXINTERRACIAL TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12171/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Private HD,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6245/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Japanese,http://cdn.adultiptv.net/japanese.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Anal,http://cdn.redtraffic.net/anal.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Pandora TV,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Yosso TV Sexy,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14176/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BCU Charm HD,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18053/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18053/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/18053/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Alba XXX HD 1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12106/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12105/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 JapanHDV,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6225/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Brazzers Europa 1,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Ebony Girls,http://live.mycamtv.com/ebony.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 XXX Love\'s Berry HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14140/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Song1 TV,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Reality Kings HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6247/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fap TV Compilation,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6208/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 XY Max HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6286/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Wicked,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6268/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 TUSHY RAW,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6262/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 We Live Together,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6266/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Кино 18 + HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18075/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18075/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18075/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 White Girls,http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Amazing TV,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 White Boxxx,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6267/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Alba XXX HD 2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12194/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PENTHOUSE QUICKIES,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Vixen HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6265/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 TINY TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6258/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 TEEN,http://cdn.redtraffic.net/teen.m3u8#http://live.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PURE BABES,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12112/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dirty Masseur,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12128/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic Spice,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12110/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Arab Girls,http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Bang!,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6174/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Blowjob Red TV,http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dancing Bear,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12144/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Family Swap,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12155/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hands on Hardcore,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6217/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Nubiles TV HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6238/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Anal Teen Angels,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12183/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Asshole Fever,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12169/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 CineMan ExExEx ONE,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20089/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Day with a Pornstar,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6192/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 MILF Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6234/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 SEXY HOT,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6282/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Club 17,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6186/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 NAUGHTY AMERICA,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6237/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Bang Bus,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12167/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Beate Uhse,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12163/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Cento X Cento,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6184/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hot and Mean,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6222/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PLAYBOY TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12135/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 SKY HIGH SEX VR,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19406/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Amateur Boxxx,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12191/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dark X,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12140/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Digital Playground HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6196/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dorcel TV orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9067/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9064/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotica X,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12109/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Family Hookups,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9345/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fap TV 2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6203/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Gay Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6215/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Lethal Hardcore,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6229/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 MILF TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12173/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Anal 4K,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12190/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 SUPER ONE,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12121/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6298/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 EXXXOTICA HD orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9346/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 FREE X TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12134/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 THREESOME TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12180/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Extreme,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6273/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Meiden Van Holland,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12125/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Anal Only,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12184/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fap TV Parody,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6210/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PORNSTAR TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12174/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Exotic 4k,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12107/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://213.226.69.130/iptv/BF9GWX8VNPYM9X/245/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 DDF Busty,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6193/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 THREESOM Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6257/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Analized HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6168/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Cum Perfection,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12158/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 DP Fanatics,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12111/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fap TV Teens,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6211/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 HOTWIFE PREMIUM,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12187/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Cherry Pimps,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6185/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Dirty Flix,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12130/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fake Taxi HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6202/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6202/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fap TV Anal,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6206/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Live Cams Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6231/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Anal Mom,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12189/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 AST TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6170/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Bratty Sis,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12161/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 FRENCH LOVER,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12124/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Holed,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6221/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic 1,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6289/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 BARELY LEGAL TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12165/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Erotic,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6289/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hard X,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6218/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Lust Cinema,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6232/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Fap TV 3,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6204/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 YOUNG Girls,http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Asian,http://live.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Banana TV,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 PORNBOX,http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Cast,http://88b9da48.kazmazpaz.ru/iptv/4PYL58K99PM8FU/20089/manifest.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Interracial,http://cdn.redtraffic.net/interracial.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Adult Time,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6166/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Bdsm,http://live.redtraffic.xyz/bdsm.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Skinny Girls,http://live.mycamtv.com/skinny.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 PLAYBOY 2,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Hustler HD,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/244/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 group-title="18禁频道",18禁频道1 
 Eropulse TV,http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
