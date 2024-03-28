@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #♻️ 九宫格
-#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宮閣•導視",九宮閣•導視 Ⅰ「IPv6」
+#EXTINF:-1 tvg-id="九宫格" tvg-name="九宫格" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宫格•导视",九宫格•导视 Ⅰ「IPv6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宮閣•導視",九宮閣•導視 Ⅱ「IPv6」
+#EXTINF:-1 tvg-id="九宫格" tvg-name="九宫格" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宫格•导视",九宫格•导视 Ⅱ「IPv6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宮閣•導視",九宮閣•導視 Ⅰ「西安」
+#EXTINF:-1 tvg-id="九宫格" tvg-name="九宫格" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宫格•导视",九宫格•导视 Ⅰ「西安」
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宮閣•導視",九宮閣•導視 Ⅱ「西安」
+#EXTINF:-1 tvg-id="九宫格" tvg-name="九宫格" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宫格•导视",九宫格•导视 Ⅱ「西安」
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宮閣•導視",九宮閣•導視「铜川」
+#EXTINF:-1 tvg-id="九宫格" tvg-name="九宫格" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/九宫阁导视.png" group-title="♻️ 九宫格•导视",九宫格•导视「铜川」
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 
 #🐼 熊猫频道
