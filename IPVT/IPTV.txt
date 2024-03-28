@@ -1518,45 +1518,45 @@ https://yang-1989.eu.org/youtube/RvSOIM620bA
 #📺 18禁频道
 #EXTINF:-1 group-title="18禁频道",18禁频道1
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1
+#EXTINF:-1 group-title="18禁频道",18禁频道2
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1
+#EXTINF:-1 group-title="18禁频道",18禁频道3
 Xhttp://live.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道4
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道5
 http://cdn.redtraffic.net/rough.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道6
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12141/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道7
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6269/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道8
 http://cdn.redtraffic.net/russian.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道9 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12177/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道10
 http://live.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道11 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6250/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道12 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12133/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道13 
 http://168.181.122.234:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道14 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/11117/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道15 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12142/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道16 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6271/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道17 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9344/index.m3u8
 #EXTINF:-1 group-title="18禁频道",XY Plus HD
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6288/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道18 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12118/index.m3u8
 #EXTINF:-1 group-title="18禁频道",TUSHY TV
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6261/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道19 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12188/index.m3u8
 #EXTINF:-1 group-title="18禁频道",VERAPORN BIG TITS 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12145/index.m3u8
@@ -1572,70 +1572,70 @@ http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6249/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6285/index.m3u8
 #EXTINF:-1 group-title="18禁频道",True Amateurs
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6260/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-SEX With Muslims,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6252/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BrazzersHD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6181/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",SEX With Muslims
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6252/index.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道BrazzersHD 
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6181/index.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道20
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12113/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道21 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6182/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道22 
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1
+#EXTINF:-1 group-title="18禁频道",18禁频道23
 Кино 18+ International,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18076/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Trans Angels,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6259/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-THREESOM,http://cdn.redtraffic.net/threesome.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-XY Mix HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6287/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Blonde,http://cdn.redtraffic.net/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道Trans Angels
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6259/index.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道THREESOM
+http://cdn.redtraffic.net/threesome.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道XY Mix HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6287/index.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道Blonde
+http://cdn.redtraffic.net/blonde.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道24
 http://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道25
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道26
 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-SEXArt,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6253/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BigDick,http://cdn.redtraffic.net/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道SEXArt,h
+ttp://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6253/index.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道BigDick
+http://cdn.redtraffic.net/bigdick.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道27
 http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道28
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6176/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道29
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道30
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道21 
 http://live.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BigAss,http://cdn.redtraffic.net/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道BigAss
+http://cdn.redtraffic.net/bigass.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道32
 http://live.redtraffic.xyz:80/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道33
 http://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道34
 http://live.redtraffic.xyz/bigass.m3u840c3c321681a14082b2b5770828910904e38ae2d1176ac1084582c805cce0795
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Blowjob,http://cdn.redtraffic.net/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-#http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道Blowjob
+http://cdn.redtraffic.net/blowjob.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道35
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道36
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道37
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道38 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6180/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",18禁频道39
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Song2 TV,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Brunette,http://cdn.redtraffic.net/brunette.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道40
+https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道41
+http://cdn.redtraffic.net/brunette.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
