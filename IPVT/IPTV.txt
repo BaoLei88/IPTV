@@ -1460,11 +1460,11 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 
 #📺 18禁频道
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道 1" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 1
 RUSSIAN Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道 2" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 2
 Rough TV,http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
+#EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道 3" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 3
 XX,http://live.adultiptv.net/rough.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
 XX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
