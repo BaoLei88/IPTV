@@ -1465,11 +1465,11 @@ RUSSIAN Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
 Rough TV,http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
-http://live.adultiptv.net/rough.m3u8
+XX,http://live.adultiptv.net/rough.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
+XX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
-http://cdn.redtraffic.net/rough.m3u8
+XX,http://cdn.redtraffic.net/rough.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
 VERAPORN GROUP SEX1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12141/index.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
@@ -1477,7 +1477,7 @@ Xpanded TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6269/index.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
 RUSSIAN TV,http://cdn.redtraffic.net/russian.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12177/index.m3u8
+XX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12177/index.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
 http://live.adultiptv.net/russian.m3u8
 #EXTINF:-1 tvg-id="18禁频道" tvg-name="18禁频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/18禁频道.png" group-title="📺 18禁频道",18禁频道 
