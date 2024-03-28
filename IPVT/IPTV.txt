@@ -1517,61 +1517,61 @@ https://yang-1989.eu.org/youtube/RvSOIM620bA
 
 #📺 18禁频道
 #EXTINF:-1 group-title="18禁频道",18禁频道1
-RUSSIAN Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1
-Rough TV,http://cdn.adultiptv.net/rough.m3u8
+http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1
-XX,http://live.adultiptv.net/rough.m3u8
+Xhttp://live.adultiptv.net/rough.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-XX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-XX,http://cdn.redtraffic.net/rough.m3u8
+http://cdn.redtraffic.net/rough.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-VERAPORN GROUP SEX1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12141/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12141/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-Xpanded TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6269/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6269/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-RUSSIAN TV,http://cdn.redtraffic.net/russian.m3u8
+http://cdn.redtraffic.net/russian.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-XX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12177/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12177/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/russian.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-Rough Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6250/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6250/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-Venus HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12133/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12133/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://168.181.122.234:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-VF Cartoon 18+,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/11117/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/11117/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-VERAPORN GROUP SEX2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12142/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12142/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-RED Lips,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6271/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6271/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-Русская Ночь orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9344/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-XY Plus HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6288/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9344/index.m3u8
+#EXTINF:-1 group-title="18禁频道",XY Plus HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6288/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12118/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-TUSHY TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6261/index.m3u8
+#EXTINF:-1 group-title="18禁频道",TUSHY TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6261/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12188/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-VERAPORN BIG TITS,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12145/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fap TV BBW,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6207/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Vintage,http://live.redtraffic.xyz/vintage.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-VERAPORN 4K,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12137/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-RK TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6249/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-X-MO,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6285/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-True Amateurs,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6260/index.m3u8
+#EXTINF:-1 group-title="18禁频道",VERAPORN BIG TITS 
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12145/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fap TV BBW
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6207/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Vintage 
+http://live.redtraffic.xyz/vintage.m3u8
+#EXTINF:-1 group-title="18禁频道",VERAPORN 4K
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12137/index.m3u8
+#EXTINF:-1 group-title="18禁频道",RK TV 
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6249/index.m3u8
+#EXTINF:-1 group-title="18禁频道",X-MO
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6285/index.m3u8
+#EXTINF:-1 group-title="18禁频道",True Amateurs
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6260/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 SEX With Muslims,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6252/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
