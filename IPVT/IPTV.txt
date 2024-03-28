@@ -1456,7 +1456,6 @@ http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 #EXTINF:-1 tvg-id="咪咕" tvg-name="咪咕视频 38" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/咪咕视频.png" group-title="📺 咪咕視頻",咪咕直播 38
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #📺 18禁频道
 RUSSIAN Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
@@ -1695,3 +1694,4 @@ Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/
 PLAYBOY 2,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
 Hustler HD,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/244/index.m3u8
 Eropulse TV,http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
