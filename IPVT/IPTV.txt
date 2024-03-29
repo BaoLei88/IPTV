@@ -221,8 +221,6 @@ http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
 #📺 4K频道
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/CCTV4K.png" group-title="📺 4K•频道",CCTV•4K
-http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/CCTV16.png" group-title="📺 4K•频道",CCTV16•4K
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/苏州4K.png" group-title="📺 4K•频道",苏州•4K
@@ -237,10 +235,6 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="咪咕" tvg-name="咪咕视频4K Ⅱ" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/咪咕视频.png" group-title="📺 4K•频道",咪咕直播4K Ⅱ
 http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/斗鱼直播.png" group-title="📺 4K•频道",斗鱼•4K影院「广州」
-http://159.75.85.63:35455/douyu/9249162
-#EXTINF:-1,tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/斗鱼直播.png" group-title="📺 4K•频道",斗鱼•4K影院「香港」
-http://mmitv.top/test/douyu.php?id=9249162
 #EXTINF:-1 tvg-id="Love Nrture 4K" tvg-name="Love Nrture 4K" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/LoveNarure4K.png" group-title="📺 4K•频道",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="Fashion 4K" tvg-name="Fashion 4K" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/FashionTV.png" group-title="📺 4K•频道",Fashion 4K「时尚」
@@ -287,14 +281,10 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/发现之旅.png" group-title="📺 数字频道",发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•北京
-http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•哈尔滨
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•乌鲁木齐
 http://36.108.172.237:10005/stream/channelid/1379387286?ticket=0bbf0fa9b0d03fc5f32588c5e4a19869f807b853&profile=pass
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•太原
-http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af6467843.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
 #📺 北京频道
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="BTV文艺" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京文艺.png" group-title="📺 北京频道",BTV文艺
@@ -315,22 +305,6 @@ http://183.242.49.77:8787/live/BTV新闻/index.m3u8
 http://183.242.49.77:8787/live/BTV科教/index.m3u8
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/卡酷少儿.png" group-title="📺 北京频道",BTV卡酷少儿
 http://183.242.49.77:8787/live/BTV卡酷少儿/index.m3u8
-#EXTINF:-1,tvg-id="北京淘剧场" tvg-name="IPTV淘剧场" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京淘剧场.png" group-title="📺 北京频道",北京IPTV淘剧场
-http://home4.kmo.ink:8888/udp/239.3.1.95:8001
-#EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="IPTV淘娱乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京淘娱乐.png" group-title="📺 北京频道",北京IPTV淘娱乐
-http://home4.kmo.ink:8888/udp/239.3.1.100:8001
-#EXTINF:-1,tvg-id="北京萌宠" tvg-name="IPTV萌宠 TV" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京萌宠TV.png" group-title="📺 北京频道",北京IPTV萌宠TV
-http://home4.kmo.ink:8888/udp/239.3.1.102:8001
-#EXTINF:-1,tvg-id="北京淘精彩" tvg-name="IPTV淘精彩" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京淘精彩.png" group-title="📺 北京频道",北京IPTV淘精彩
-http://home4.kmo.ink:8888/udp/239.3.1.178:8001
-#EXTINF:-1,tvg-id="北京淘电影" tvg-name="IPTV淘电影" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京淘电影.png" group-title="📺 北京频道",北京IPTV淘电影
-http://home4.kmo.ink:8888/udp/239.3.1.250:8001
-#EXTINF:-1,tvg-id="北京健康" tvg-name="IPTV大健康" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京大健康.png" group-title="📺 北京频道",北京IPTV大健康
-http://home4.kmo.ink:8888/udp/239.3.1.251:8001
-#EXTINF:-1,tvg-id="北京淘BABY" tvg-name="IPTV淘BABY" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京淘Baby.png" group-title="📺 北京频道",北京IPTV淘BABY Ⅰ
-http://home4.kmo.ink:8888/udp/239.3.1.238:8001
-#EXTINF:-1 tvg-id="北京淘BABY" tvg-name="IPTV淘BABY" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京淘Baby.png" group-title="📺 北京频道",北京IPTV淘BABY Ⅱ
-http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="房山无线" tvg-name="房山无线" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/房山无线频道.png" group-title="📺 北京频道",房山无线
 https://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1 tvg-id="房山有线" tvg-name="房山有线" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/房山有线频道.png" group-title="📺 北京频道",房山有线
@@ -343,12 +317,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
 #📺 江苏频道
 #EXTINF:-1 tvg-id="江苏优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/优漫卡通.png" group-title="📺 江苏频道",优漫卡通
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/江苏城市.png" group-title="📺 江苏频道",江苏城市
-http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
-#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/江苏综艺.png" group-title="📺 江苏频道",江苏综艺
-http://58.220.219.14:9901/tsfile/live/0120_4.m3u8
-#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/江苏体育休闲.png" group-title="📺 江苏频道",江苏体育休闲
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-id="南京综合" tvg-name="南京综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/南京新闻综合.png" group-title="📺 江苏频道",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/南京教科.png" group-title="📺 江苏频道",南京教科
@@ -399,22 +367,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/金鹰卡通.png" group-title="📺 湖南频道",金鹰卡通
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
-#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖南爱晚.png" group-title="📺 湖南频道",湖南爱晚
-http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖南电视剧.png" group-title="📺 湖南频道",湖南电视剧
-http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
-#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖南电影.png" group-title="📺 湖南频道",湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖南都市.png" group-title="📺 湖南频道",湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖南国际.png" group-title="📺 湖南频道",湖南国际
-http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖南经视.png" group-title="📺 湖南频道",湖南经视
-http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖南娱乐.png" group-title="📺 湖南频道",湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖南教育台.png" group-title="📺 湖南频道",湖南教育
-http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 
 #📺 湖北频道
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/湖北综合.png" group-title="📺 湖北频道",湖北综合
@@ -439,112 +391,12 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/梨园频道.png" group-title="📺 河南频道",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1,tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南都市.png" group-title="📺 河南频道",河南都市
-http://v.vlanl.com:4022/udp/225.1.4.52:1081
-#EXTINF:-1,tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南民生.png" group-title="📺 河南频道",河南民生
-http://v.vlanl.com:4022/udp/225.1.4.53:1082
-#EXTINF:-1,tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南法治.png" group-title="📺 河南频道",河南法治
-http://v.vlanl.com:4022/udp/225.1.4.54:1083
-#EXTINF:-1,tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南电视剧.png" group-title="📺 河南频道",河南电视剧
-http://v.vlanl.com:4022/udp/225.1.4.55:1084
-#EXTINF:-1,tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南新闻.png" group-title="📺 河南频道",河南新闻
-http://v.vlanl.com:4022/udp/225.1.4.56:1085
-#EXTINF:-1,tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南公共.png" group-title="📺 河南频道",河南公共
-http://v.vlanl.com:4022/udp/225.1.4.58:1087
-#EXTINF:-1,tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南乡村.png" group-title="📺 河南频道",河南乡村
-http://v.vlanl.com:4022/udp/225.1.4.120:1149
-#EXTINF:-1,tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南国际.png" group-title="📺 河南频道",河南国际
-http://v.vlanl.com:4022/udp/225.1.4.102:1131
-#EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南戏曲.png" group-title="📺 河南频道",河南戏曲
-http://v.vlanl.com:4022/udp/225.1.4.99:1128
-#EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南收藏天下.png" group-title="📺 河南频道",收藏天下
-http://v.vlanl.com:4022/udp/225.1.4.100:1129
-#EXTINF:-1,tvg-id="中华功夫" tvg-name="河南功夫" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南中华功夫.png" group-title="📺 河南频道",中华功夫
-http://v.vlanl.com:4022/udp/225.1.4.101:1130
-#EXTINF:-1,tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南睛彩中原.png" group-title="📺 河南频道",睛彩中原
-http://v.vlanl.com:4022/udp/225.1.4.163:1203
-#EXTINF:-1,tvg-id="移动戏曲" tvg-name="河南移动戏曲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南移动戏曲.png" group-title="📺 河南频道",移动戏曲
-http://v.vlanl.com:4022/udp/225.1.4.206:1254
-#EXTINF:-1,tvg-id="移动电视" tvg-name="河南移动电视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南移动电视.png" group-title="📺 河南频道",移动电视
-http://v.vlanl.com:4022/udp/225.1.5.40:1350
-#EXTINF:-1,tvg-id="健康河南" tvg-name="河南健康" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/健康河南.png" group-title="📺 河南频道",健康河南
-http://v.vlanl.com:4022/udp/225.1.5.48:1358
-#EXTINF:-1,tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南导视.png" group-title="📺 河南频道",河南导视
-http://v.vlanl.com:4022/udp/225.1.4.194:1244
-#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/国学频道.png" group-title="📺 河南频道",国学频道
-http://v.vlanl.com:4022/udp/225.1.4.196:1311
-#EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南欢腾购物.png" group-title="📺 河南频道",欢腾购物 Ⅰ
-http://v.vlanl.com:4022/udp/225.1.4.57:1086
-#EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南欢腾购物.png" group-title="📺 河南频道",欢腾购物 Ⅱ
-http://v.vlanl.com:4022/udp/225.1.4.236:1282
-#EXTINF:-1,tvg-id="郑州新闻" tvg-name="郑州综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州新闻综合.png" group-title="📺 河南频道",郑州新闻综合
-http://v.vlanl.com:4022/udp/225.1.4.140:1176
-#EXTINF:-1,tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州商都.png" group-title="📺 河南频道",郑州商都
-http://v.vlanl.com:4022/udp/225.1.4.141:1177
-#EXTINF:-1,tvg-id="郑州文体" tvg-name="郑州文体旅游" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州文体旅游.png" group-title="📺 河南频道",郑州文体旅游
-http://v.vlanl.com:4022/udp/225.1.4.142:1178
-#EXTINF:-1,tvg-id="郑州影视" tvg-name="郑州戏曲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州影视戏曲.png" group-title="📺 河南频道",郑州影视戏曲
-http://v.vlanl.com:4022/udp/225.1.4.146:1182
-#EXTINF:-1,tvg-id="郑州妇女" tvg-name="郑州儿童" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州妇女儿童.png" group-title="📺 河南频道",郑州妇女儿童
-http://v.vlanl.com:4022/udp/225.1.4.147:1183
-#EXTINF:-1,tvg-id="郑州都市" tvg-name="郑州生活" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州都市生活.png" group-title="📺 河南频道",郑州都市生活
-http://v.vlanl.com:4022/udp/225.1.4.149:1185
-#EXTINF:-1,tvg-id="郑州教育台" tvg-name="郑州教育台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州教育.png" group-title="📺 河南频道",郑州教育
-http://v.vlanl.com:4022/udp/225.1.4.191:1241
 #EXTINF:-1 tvg-id="洛阳新闻综合" tvg-name="洛阳新闻综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/洛阳新闻综合.png" group-title="📺 河南频道",洛阳新闻综合
 http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 #EXTINF:-1 tvg-id="洛阳科教" tvg-name="洛阳科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/洛阳科教.png" group-title="📺 河南频道",洛阳科教
 http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 #EXTINF:-1 tvg-id="洛阳文旅" tvg-name="洛阳文旅" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/洛阳文旅.png" group-title="📺 河南频道",洛阳文旅
 http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
-
-#📺 河北频道
-#EXTINF:-1 tvg-id="河北生活" tvg-name="河北经济" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北经济生活.png" group-title="📺 河北频道",河北经济生活•邯郸 Ⅰ
-http://116.132.87.246:8888/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 tvg-id="河北生活" tvg-name="河北经济" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北经济生活.png" group-title="📺 河北频道",河北经济生活•邯郸 Ⅱ
-http://hbyxmlg.picp.io:8088/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-id="河北生活" tvg-name="河北经济" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北经济生活.png" group-title="📺 河北频道",河北经济生活•保定
-http://111.225.113.130:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北都市.png" group-title="📺 河北频道",河北都市•邯郸 Ⅰ
-http://116.132.87.246:8888/newlive/live/hls/21/live.m3u8
-#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北都市.png" group-title="📺 河北频道",河北都市•邯郸 Ⅱ
-http://hbyxmlg.picp.io:8088/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北都市.png" group-title="📺 河北频道",河北都市•保定
-http://111.225.113.130:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北影视剧.png" group-title="📺 河北频道",河北影视剧•邯郸 Ⅰ
-http://116.132.87.246:8888/newlive/live/hls/22/live.m3u8
-#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北影视剧.png" group-title="📺 河北频道",河北影视剧•邯郸 Ⅱ
-http://hbyxmlg.picp.io:8088/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北影视剧.png" group-title="📺 河北频道",河北影视剧•保定
-http://111.225.113.130:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北公共.png" group-title="📺 河北频道",河北公共•邯郸 Ⅰ
-http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
-#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北公共.png" group-title="📺 河北频道",河北公共•邯郸 Ⅱ
-http://hbyxmlg.picp.io:8088/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北公共.png" group-title="📺 河北频道",河北公共•保定
-http://111.225.113.130:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北少儿科教.png" group-title="📺 河北频道",河北少儿科教•保定 Ⅰ
-http://zdwjl.eatuo.com:808/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北少儿科教.png" group-title="📺 河北频道",河北少儿科教•保定 Ⅱ
-http://111.225.113.130:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北少儿科教.png" group-title="📺 河北频道",河北少儿科教•邯郸
-http://hbyxmlg.picp.io:8088/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北农民.png" group-title="📺 河北频道",河北农民•保定 Ⅰ
-http://zdwjl.eatuo.com:808/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北农民.png" group-title="📺 河北频道",河北农民•保定 Ⅱ
-http://111.225.113.130:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北农民.png" group-title="📺 河北频道",河北农民•邯郸
-http://hbyxmlg.picp.io:8088/tsfile/live/1005_1.m3u8
-#EXTINF:-1,tvg-id="河北杂技" tvg-name="河北杂技" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北杂技.png" group-title="📺 河北频道",河北杂技•保定
-http://111.225.113.130:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/石家庄新闻综合.png" group-title="📺 河北频道",石家庄新闻综合
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-#EXTINF:-1 tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/石家庄娱乐.png" group-title="📺 河北频道",石家庄娱乐
-http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-#EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/石家庄生活.png" group-title="📺 河北频道",石家庄生活
-http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/石家庄都市.png" group-title="📺 河北频道",石家庄都市
-http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 
 #📺 浙江频道
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/浙江公共新闻.png" group-title="📺 浙江频道",浙江公共新闻
@@ -579,8 +431,6 @@ http://php.jdshipin.com:8880/chudian.php?id=gdys
 http://php.jdshipin.com:8880/chudian.php?id=gdms
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/广东影视.png" group-title="📺 广东频道",广东经济科教
 http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
-#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/广东影视.png" group-title="📺 广东频道",广东少儿
-http://iptv.eatuo.com:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="广东文化" tvg-name="广东文化频道" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/广东文化频道.png" group-title="📺 广东频道",文化频道
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/广东移动.png" group-title="📺 广东频道",广东移动
@@ -716,14 +566,6 @@ http://jd.sy012.com:4000/udp/232.0.0.230:9356
 #EXTINF:-1,tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/辽宁移动电视.png" group-title="📺 辽宁频道",辽宁移动电视•大连
 http://jd.sy012.com:4000/udp/232.0.0.167:9338
 
-#📺 安徽频道
-#EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/安徽经济生活.png" group-title="📺 安徽频道",经济生活
-http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
-#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/安徽影视.png" group-title="📺 安徽频道",安徽影视
-http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
-#EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/安徽综艺体育.png" group-title="📺 安徽频道",综艺•体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
-
 #📺 海南频道
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/海南新闻.png" group-title="📺 海南频道",海南新闻
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
@@ -739,14 +581,6 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/ind
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000440/index.m3u8?IAS
 #EXTINF:-1 tvg-id="三亚综合" tvg-name="三亚新闻综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/三亚新闻综合.png" group-title="📺 海南频道",三亚新闻综合
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
-
-#📺 广西频道
-#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/广西影视.png" group-title="📺 广西频道",广西影视
-http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
-#EXTINF:-1 tvg-id="广西综艺" tvg-name="广西综艺旅游" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/广西综艺旅游.png" group-title="📺 广西频道",广西综艺旅游
-http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
-#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/广西都市.png" group-title="📺 广西频道",广西都市
-http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 
 #📺 云南频道
 #EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/云南娱乐.png" group-title="📺 云南频道",云南娱乐
@@ -785,15 +619,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1,tvg-id="香港面包" tvg-name="香港面包台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/香港面包台.png" group-title="📺 港澳台频道",香港麵包臺
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
 #EXTINF:-1,tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/TVBJ1.png" group-title="📺 港澳台频道",J1•TVB
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/HBO.png" group-title="📺 港澳台频道",HBO
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1,tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/HBO+.png" group-title="📺 港澳台频道",HBO+
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/TVBS新闻.png" group-title="📺 港澳台频道",新聞•TVBS
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8?$1920x1080
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/明珠台.png" group-title="📺 港澳台频道",明珠台•TVB Pearl
 http://120.238.13.198:8000/hls/19/index.m3u8
 #EXTINF:-1,tvg-id="TVB星河(粤)" tvg-name="TVB星河台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/无线星河.png" group-title="📺 港澳台频道",星河•TVB「Anycast」
@@ -808,8 +639,6 @@ https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1,tvg-id="TVB功夫" tvg-name="TVB功夫台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/TVB功夫.png" group-title="📺 港澳台频道",功夫台•TVB
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/RTHK 32.png" group-title="📺 港澳台频道",RTHK•32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/RTHK 33.png" group-title="📺 港澳台频道",RTHK•33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/RTHK 34.png" group-title="📺 港澳台频道",RTHK•34
@@ -818,18 +647,6 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/J2.png" group-title="📺 港澳台频道",J2•TVB「香港」
 http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/J2.png" group-title="📺 港澳台频道",J2•TVB「珠海」
-http://bziyunshao.synology.me:8890/bysid/82
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/VIUTV.png" group-title="📺 港澳台频道",VIUTV
-http://bziyunshao.synology.me:8889/bysid/99
-#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTVSIX" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/VIUTV6.png" group-title="📺 港澳台频道",VIUTV•SIX
-http://bziyunshao.synology.me:8889/bysid/96
-#EXTINF:-1 tvg-id="HOY76" tvg-name="香港开76台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/香港开76.png" group-title="📺 港澳台频道",香港開電視•76
-http://bziyunshao.synology.me:8891/bysid/76
-#EXTINF:-1 tvg-id="HOY77" tvg-name="香港开77台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/香港开77.png" group-title="📺 港澳台频道",香港開電視•77
-http://bziyunshao.synology.me:8891/bysid/77
-#EXTINF:-1 tvg-id="HOY78" tvg-name="香港开78台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/香港开78.png" group-title="📺 港澳台频道",香港開電視•78
-http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1,tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/耀才财经.png" group-title="📺 港澳台频道",耀才財經 Ⅰ
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/耀才财经.png" group-title="📺 港澳台频道",耀才財經 Ⅱ
@@ -850,26 +667,16 @@ http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
 http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳门卫视" tvg-name="澳门卫视台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/澳门卫视.png" group-title="📺 港澳台频道",澳門衛視
 https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/星空卫视.png" group-title="📺 港澳台频道",星空衛視
-http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1,tvg-id="高清剧场" tvg-name="高清剧场" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/高清剧场.png" group-title="📺 港澳台频道",高清劇場
 http://60.10.203.69:8000/4.m3u8
 #EXTINF:-1,tvg-id="经典功夫" tvg-name="经典功夫" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/星空经典功夫.png" group-title="📺 港澳台频道",經典功夫•星空「成都」
 http://47.109.155.164/%E5%B0%8F%E6%9B%BE/yy.php?id=1355002394
-#EXTINF:-1,tvg-id="经典功台" tvg-name="经典功夫" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/星空经典功夫.png" group-title="📺 港澳台频道",經典功夫•星空「绵阳」
-http://cfss.cc/cdn/yy/1355002394.flv
 #EXTINF:-1,tvg-id="真武侠台" tvg-name="真武侠台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/真武侠台.png" group-title="📺 港澳台频道",真武俠
 http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1199632572132-1199632572132-7318565434771983384-2399265267720-10057-A-1703986510-1.flv
-#EXTINF:-1,tvg-id="龙腾经典台" tvg-name="龙腾经典台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/龙腾2台.png" group-title="📺 港澳台频道",龍騰2臺
-http://cfss.cc/cdn/yy/1355000685.flv
 #EXTINF:-1,tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/经典电影台.png" group-title="📺 港澳台频道",經典電影
 http://cfss.cc/cdn/yy/1355260662.flv
 #EXTINF:-1,tvg-id="佛卫慈悲" tvg-name="佛卫慈悲台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/香港佛陀.png" group-title="📺 港澳台频道",佛衛慈悲
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/金砖.png" group-title="📺 港澳台频道",金磚中文
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1,tvg-id="金磚英文" tvg-name="金磚英文" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/金砖.png" group-title="📺 港澳台频道",金磚英文
-http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 #📺 台湾频道
 #EXTINF:-1,tvg-id="TaiwanPlus" tvg-name="TaiwanPlusTV " tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/TaiwanPlus.png" group-title="📺 港台湾频道",Taiwan Plus TV
@@ -898,8 +705,6 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1,tvg-id="大爱2台" tvg-name="大爱2台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/大爱2台.png" group-title="📺 台湾频道",大愛2臺 Ⅱ
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/民视.png" group-title="📺 台湾频道",民視 HD
-http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="mnews镜新闻台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/镜新闻.png" group-title="📺 台湾频道",MNEWS•镜新聞
 http://livetv.skycf.eu.org/live.m3u8?c=10
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/中天新闻.png" group-title="📺 台湾频道",中天新聞
@@ -930,16 +735,12 @@ https://iptv.hiper25.com/gdms/video.m3u8
 https://iptv.hiper25.com/gdjjkj/video.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/大湾区卫视.png" group-title="📽️ 广电•IPv6",大灣區衛視（广电 IPv6）
 https://iptv.hiper25.com/dwq/video.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/CCTV4K.png" group-title="📽️ 广电•IPv6",CCTV•4K（广电 IPv6）
-https://iptv.hiper25.com/CCTV-4K/video.m3u8
 
 #🎥 影视轮播
 #EXTINF:-1 tvg-id="封神榜" tvg-name="封神榜" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",封神榜「虎牙」
 http://cfss.cc/cdn/hy/23749096.flv
 #EXTINF:-1 tvg-id="西游记•张卫健版 Ⅰ" tvg-name="西游记•张卫健版 Ⅰ" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",西游记•张卫健版 Ⅰ「虎牙」
 http://cfss.cc/cdn/hy/23735126.flv
-#EXTINF:-1 tvg-id="西游记•张卫健版 Ⅱ" tvg-name="西游记•张卫健版 Ⅱ" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",西游记•张卫健版 Ⅱ「虎牙」
-http://cfss.cc/cdn/hy/23728660.flv
 #EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",楚汉骄雄「虎牙」
 http://cfss.cc/cdn/hy/23740156.flv
 #EXTINF:-1 tvg-id="鹿鼎记•陈小春" tvg-name="鹿鼎记•陈小春" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",鹿鼎记•陈小春「虎牙」
@@ -984,8 +785,6 @@ http://cfss.cc/cdn/hy/23865058.flv
 http://cfss.cc/cdn/hy/23865161.flv
 #EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/斗罗大陆.png" group-title="🎥 影視輪播",斗罗大陆•唐家三少「虎牙」
 http://cfss.cc/cdn/hy/11352906.flv
-#EXTINF:-1 tvg-id="许氏三杰" tvg-name="许氏三杰" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",许氏三杰「虎牙」
-http://cfss.cc/cdn/hy/11602033.flv
 #EXTINF:-1 tvg-id="许冠英" tvg-name="许冠英" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",许冠英「虎牙」
 http://cfss.cc/cdn/hy/11601972.flv
 #EXTINF:-1 tvg-id="五福星" tvg-name="五福星" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",五福星「虎牙」
@@ -1016,210 +815,12 @@ http://cfss.cc/cdn/hy/11279251.flv
 http://cfss.cc/cdn/hy/11352909.flv
 #EXTINF:-1 tvg-id="黄渤" tvg-name="黄渤" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",黄渤「虎牙」
 http://cfss.cc/cdn/hy/11352876.flv
-#EXTINF:-1,tvg-id="士兵突击" tvg-name="士兵突击" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",士兵突击「YY」
-https://lunbo.freetv.top/yy/1382828766
-#EXTINF:-1,tvg-id="狂飙" tvg-name="狂飙" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",狂飙「YY」
-https://lunbo.freetv.top/yy/1508778570
-#EXTINF:-1,tvg-id="鸡毛飞上天" tvg-name="鸡毛飞上天" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",鸡毛飞上天「YY」
-https://lunbo.freetv.top/yy/1461033197
-#EXTINF:-1,tvg-id="小兵张嘎" tvg-name="小兵张嘎" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",小兵张嘎「YY」
-https://lunbo.freetv.top/yy/1354930225
-#EXTINF:-1,tvg-id="炊事班的故事" tvg-name="炊事班的故事" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",炊事班的故事 Ⅰ「YY」
-https://lunbo.freetv.top/yy/1382749901
-#EXTINF:-1,tvg-id="炊事班的故事II" tvg-name="炊事班的故事II" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",炊事班的故事 Ⅱ「YY」
-https://lunbo.freetv.top/yy/1382736885
-#EXTINF:-1,tvg-id="炊事班的故事III" tvg-name="炊事班的故事III" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",炊事班的故事 Ⅲ「YY」
-https://lunbo.freetv.top/yy/1382736716
-#EXTINF:-1,tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",上海滩「YY」
-https://lunbo.freetv.top/yy/1382745184
-#EXTINF:-1,tvg-id="新世界" tvg-name="新世界" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",新世界「YY」
-https://lunbo.freetv.top/yy/1382736850
-#EXTINF:-1,tvg-id="福贵" tvg-name="福贵" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",福贵「YY」
-https://lunbo.freetv.top/yy/1354926537
-#EXTINF:-1,tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/灌篮高手.png" group-title="🎥 影視輪播",灌篮高手「YY」
-https://lunbo.freetv.top/yy/1356243352
-#EXTINF:-1,tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",武林外传「YY」
-https://lunbo.freetv.top/yy/1355652820
-#EXTINF:-1,tvg-id="【鹿鼎记】金庸经典" tvg-name="【鹿鼎记】金庸经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",【鹿鼎记】金庸经典「YY」
-https://lunbo.freetv.top/yy/28265277
-#EXTINF:-1,tvg-id="济公游记" tvg-name="济公游记" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",济公游记「YY」
-https://lunbo.freetv.top/yy/1355265814
-#EXTINF:-1,tvg-id="纪晓岚" tvg-name="纪晓岚" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",铁齿铜牙纪晓岚「YY」
-https://lunbo.freetv.top/yy/1354143978
-#EXTINF:-1,tvg-id="天龙八部（国语版）" tvg-name="天龙八部（国语版）" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",天龙八部（国语版）「YY」
-https://lunbo.freetv.top/yy/1382736855
-#EXTINF:-1,tvg-id="雍正王朝" tvg-name="雍正王朝" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",雍正王朝「YY」
-https://lunbo.freetv.top/yy/1356043620
-#EXTINF:-1,tvg-id="少年包青天" tvg-name="少年包青天" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",少年包青天「YY」
-https://lunbo.freetv.top/yy/38498680
-#EXTINF:-1,tvg-id="热度榜1.包青天" tvg-name="热度榜1.包青天" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",热度榜1.包青天「YY」
-https://lunbo.freetv.top/yy/22701868
-#EXTINF:-1,tvg-id="隋唐英雄传" tvg-name="隋唐英雄传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",隋唐英雄传「YY」
-https://lunbo.freetv.top/yy/1352475619
-#EXTINF:-1,tvg-id="鹊刀门" tvg-name="鹊刀门" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",鹊刀门「YY」
-https://lunbo.freetv.top/yy/1355344777
-#EXTINF:-1,tvg-id="宰相刘罗锅" tvg-name="宰相刘罗锅" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",宰相刘罗锅「YY」
-https://lunbo.freetv.top/yy/1382745191
-#EXTINF:-1,tvg-id="二号交通站" tvg-name="二号交通站" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",二号交通站「YY」
-https://lunbo.freetv.top/yy/1353428972
-#EXTINF:-1,tvg-id="少年歌行" tvg-name="少年歌行" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",少年歌行「YY」
-https://lunbo.freetv.top/yy/1354806550
-#EXTINF:-1,tvg-id="天龙神雕经典回忆" tvg-name="天龙神雕经典回忆" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",天龙神雕•经典回忆「YY」
-https://lunbo.freetv.top/yy/68260522
-#EXTINF:-1,tvg-id="神探狄仁杰" tvg-name="神探狄仁杰" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",神探狄仁杰「YY」
-https://lunbo.freetv.top/yy/38338029
-#EXTINF:-1,tvg-id="盗暮•老九门" tvg-name="盗暮•老九门老九门" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",盗暮•老九门「YY」
-https://lunbo.freetv.top/yy/1382763739
-#EXTINF:-1,tvg-id="我和僵尸有个约会" tvg-name="我和僵尸有个约会" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",我和僵尸有个约会「YY」
-https://lunbo.freetv.top/yy/1354143966
-#EXTINF:-1,tvg-id="雪中悍刀行" tvg-name="雪中悍刀行" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",雪中悍刀行「YY」
-https://lunbo.freetv.top/yy/1382660835
-#EXTINF:-1,tvg-id="康熙微服私访记" tvg-name="康熙微服私访记" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",康熙微服私访记「YY」
-https://lunbo.freetv.top/yy/1352811698
-#EXTINF:-1,tvg-id="新白娘子传奇" tvg-name="新白娘子传奇" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",新白娘子传奇「YY」
-https://lunbo.freetv.top/yy/1354490667
-#EXTINF:-1,tvg-id="花千骨" tvg-name="花千骨" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",花千骨「YY」
-https://lunbo.freetv.top/yy/1354943110
-#EXTINF:-1,tvg-id="我的兄弟叫顺溜" tvg-name="我的兄弟叫顺溜" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",我的兄弟叫顺溜「YY」
-https://lunbo.freetv.top/yy/1459331991
-#EXTINF:-1,tvg-id="西游记后传" tvg-name="西游记后传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",西游记后传「YY」
-https://lunbo.freetv.top/yy/1382736846
-#EXTINF:-1,tvg-id="情满四合院" tvg-name="情满四合院" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",情满四合院「YY」
-https://lunbo.freetv.top/yy/1382851524
-#EXTINF:-1,tvg-id="父母爱情" tvg-name="父母爱情" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",父母爱情「YY」
-https://lunbo.freetv.top/yy/1354926650
-#EXTINF:-1,tvg-id="变形金刚" tvg-name="变形金刚" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",变形金刚「YY」
-https://lunbo.freetv.top/yy/1382736803
-#EXTINF:-1,tvg-id="天道-9.2高分好剧" tvg-name="天道-9.2高分好剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",天道-9.2高分好剧「YY」
-https://lunbo.freetv.top/yy/1382735574
-#EXTINF:-1,tvg-id="寻秦记-穿越剧经典" tvg-name="寻秦记-穿越剧经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",寻秦记-穿越剧经典「YY」
-https://lunbo.freetv.top/yy/1382749900
-#EXTINF:-1,tvg-id="三国演义【1994】" tvg-name="三国演义【1994】" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",三国演义【1994】「YY」
-https://lunbo.freetv.top/yy/1354930932
-#EXTINF:-1,tvg-id="神雕侠侣" tvg-name="神雕侠侣" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",神雕侠侣「YY」
-https://lunbo.freetv.top/yy/1460913377
-#EXTINF:-1,tvg-id="我的体育老师" tvg-name="我的体育老师" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",我的体育老师「YY」
-https://lunbo.freetv.top/yy/1382745169
-#EXTINF:-1,tvg-id="欢乐颂" tvg-name="欢乐颂" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",欢乐颂「YY」
-https://lunbo.freetv.top/yy/1382851577
-#EXTINF:-1,tvg-id="天下第一" tvg-name="天下第一" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",天下第一「YY」
-https://lunbo.freetv.top/yy/1382736838
-#EXTINF:-1,tvg-id="读心神探" tvg-name="读心神探" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",读心神探「YY」
-https://lunbo.freetv.top/yy/1382736875
-#EXTINF:-1,tvg-id="红楼梦1987经典" tvg-name="红楼梦1987经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",红楼梦1987经典「YY」
-https://lunbo.freetv.top/yy/1382745084
-#EXTINF:-1,tvg-id="西游记后传" tvg-name="西游记后传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",西游记后传「YY」
-https://lunbo.freetv.top/yy/1353392400
-#EXTINF:-1,tvg-id="大汉贤后卫子夫" tvg-name="大汉贤后卫子夫" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",大汉贤后卫子夫「YY」
-https://lunbo.freetv.top/yy/1382735569
-#EXTINF:-1,tvg-id="金婚" tvg-name="金婚" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",金婚「YY」
-https://lunbo.freetv.top/yy/1382736832
-#EXTINF:-1,tvg-id="新三国演义" tvg-name="新三国演义" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",新三国演义「YY」
-https://lunbo.freetv.top/yy/1382851459
-#EXTINF:-1,tvg-id="法证先锋" tvg-name="法证先锋" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",法证先锋「YY」
-https://lunbo.freetv.top/yy/1354930939
-#EXTINF:-1,tvg-id="法证先锋Ⅱ" tvg-name="法证先锋Ⅱ" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",法证先锋Ⅱ「YY」
-https://lunbo.freetv.top/yy/1354888736
-#EXTINF:-1,tvg-id="法证先锋Ⅲ" tvg-name="法证先锋Ⅲ" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",法证先锋Ⅲ「YY」
-https://lunbo.freetv.top/yy/1382736802
-#EXTINF:-1,tvg-id="仙剑奇侠传" tvg-name="仙剑奇侠传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",仙剑奇侠传「YY」
-https://lunbo.freetv.top/yy/1382749903
-#EXTINF:-1,tvg-id="漫威超级英雄系列" tvg-name="漫威超级英雄系列" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",漫威超级英雄「YY」
-https://lunbo.freetv.top/yy/1354932402
-#EXTINF:-1,tvg-id="熊出没之探险日记S1-国漫" tvg-name="熊出没之探险日记S1-国漫" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",熊出没之探险日记S1-国漫「YY」
-https://lunbo.freetv.top/yy/1354930977
-#EXTINF:-1,tvg-id="末日系列-电影合集" tvg-name="末日系列-电影合集" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",末日系列-电影合集「YY」
-https://lunbo.freetv.top/yy/1354889019
-#EXTINF:-1,tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",以家人之名「YY」
-https://lunbo.freetv.top/yy/1382736908
-#EXTINF:-1,tvg-id="我的前半生" tvg-name="我的前半生" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",我的前半生「YY」
-https://lunbo.freetv.top/yy/1382735564
-#EXTINF:-1,tvg-id="康熙王朝" tvg-name="康熙王朝" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",康熙王朝「YY」
-https://lunbo.freetv.top/yy/1382736818
-#EXTINF:-1,tvg-id="小欢喜" tvg-name="小欢喜" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",小欢喜「YY」
-https://lunbo.freetv.top/yy/1382737888
-#EXTINF:-1,tvg-id="哈利波特" tvg-name="哈利波特" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",哈利波特「YY」
-https://lunbo.freetv.top/yy/1382745105
-#EXTINF:-1,tvg-id="粉红女郎" tvg-name="粉红女郎" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",粉红女郎「YY」
-https://lunbo.freetv.top/yy/1354888671
-#EXTINF:-1,tvg-id="小鬼当家-童年回忆" tvg-name="小鬼当家-童年回忆"tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",小鬼当家-童年回忆「YY」
-https://lunbo.freetv.top/yy/1382745104
-#EXTINF:-1,tvg-id="钟馗传说" tvg-name="钟馗传说" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",钟馗传说「YY」
-https://lunbo.freetv.top/yy/1382736839
-#EXTINF:-1,tvg-id="我的父亲我的兵" tvg-name="我的父亲我的兵" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",我的父亲我的兵「YY」
-https://lunbo.freetv.top/yy/1353413714
-#EXTINF:-1,tvg-id="无敌县令" tvg-name="无敌县令" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",无敌县令「YY」
-https://lunbo.freetv.top/yy/1354932390
-#EXTINF:-1,tvg-id="大唐双龙传" tvg-name="大唐双龙传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",大唐双龙传「YY」
-https://lunbo.freetv.top/yy/1354930979
-#EXTINF:-1,tvg-id="我爱我家" tvg-name="我爱我家" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",我爱我家「YY」
-https://lunbo.freetv.top/yy/1382735557
-#EXTINF:-1,tvg-id="白夜追凶第一季" tvg-name="白夜追凶第一季" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",白夜追凶第一季「YY」
-https://lunbo.freetv.top/yy/1354932359
-#EXTINF:-1,tvg-id="大汉天子S1" tvg-name="大汉天子S1" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",大汉天子S1「YY」
-https://lunbo.freetv.top/yy/1382749902
-#EXTINF:-1,tvg-id="大汉天子S2" tvg-name="大汉天子S2" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",大汉天子S2「YY」
-https://lunbo.freetv.top/yy/1382736807
-#EXTINF:-1,tvg-id="大汉天子S3" tvg-name="大汉天子S3" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",大汉天子S3「YY」
-https://lunbo.freetv.top/yy/1382736810
-#EXTINF:-1,tvg-id="黑冰" tvg-name="黑冰" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",黑冰「YY」
-https://lunbo.freetv.top/yy/1354932427
-#EXTINF:-1,tvg-id="流金岁月-经典港剧" tvg-name="流金岁月-经典港剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",流金岁月-经典港剧「YY」
-https://lunbo.freetv.top/yy/1382736891
-#EXTINF:-1,tvg-id="宫心计" tvg-name="宫心计" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",宫心计「YY」
-https://lunbo.freetv.top/yy/1382828769
-#EXTINF:-1,tvg-id="妖神记-国漫" tvg-name="妖神记-国漫" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",妖神记-国漫「YY」
-https://lunbo.freetv.top/yy/1382745171
-#EXTINF:-1,tvg-id="谈判专家" tvg-name="谈判专家" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",谈判专家「YY」
-https://lunbo.freetv.top/yy/1382735560
-#EXTINF:-1,tvg-id="编辑部的故事" tvg-name="编辑部的故事" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",编辑部的故事「YY」
-https://lunbo.freetv.top/yy/1354936120
-#EXTINF:-1,tvg-id="回家的诱惑" tvg-name="回家的诱惑" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",回家的诱惑「YY」
-https://lunbo.freetv.top/yy/1354658043
-#EXTINF:-1,tvg-id="心理追凶-港剧" tvg-name="心理追凶-港剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",心理追凶-港剧「YY」
-https://lunbo.freetv.top/yy/1354936207
-#EXTINF:-1,tvg-id="请回答1988" tvg-name="请回答1988" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",请回答1988「YY」
-https://lunbo.freetv.top/yy/1354932362
-#EXTINF:-1,tvg-id="憨豆先生" tvg-name="憨豆先生" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",憨豆先生「YY」
-https://lunbo.freetv.top/yy/1354930189
-#EXTINF:-1,tvg-id="暮光之城" tvg-name="暮光之城" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",暮光之城「YY」
-https://lunbo.freetv.top/yy/1354930181
-#EXTINF:-1,tvg-id="公主嫁到" tvg-name="公主嫁到" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",公主嫁到「YY」
-https://lunbo.freetv.top/yy/1382736915
-#EXTINF:-1,tvg-id="缺宅男女" tvg-name="缺宅男女" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",缺宅男女「YY」
-https://lunbo.freetv.top/yy/1354930937
-#EXTINF:-1,tvg-id="法外风云" tvg-name="法外风云" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",法外风云「YY」
-https://lunbo.freetv.top/yy/1382736805
-#EXTINF:-1,tvg-id="蒲松龄—经典港剧" tvg-name="蒲松龄—经典港剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",蒲松龄—经典港剧「YY」
-https://lunbo.freetv.top/yy/1354889042
-#EXTINF:-1,tvg-id="名媛望族-精彩港剧" tvg-name="名媛望族-精彩港剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",名媛望族-精彩港剧「YY」
-https://lunbo.freetv.top/yy/1354932431
-#EXTINF:-1,tvg-id="悬疑破案！施公奇案全季" tvg-name="悬疑破案！施公奇案全季"tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",悬疑破案！施公奇案「YY」
-https://lunbo.freetv.top/yy/1382749905
-#EXTINF:-1,tvg-id="飞虎之雷霆极战" tvg-name="飞虎之雷霆极战" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",飞虎之雷霆极战「YY」
-https://lunbo.freetv.top/yy/1382736869
-#EXTINF:-1,tvg-id="伪装者" tvg-name="伪装者" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",伪装者「YY」
-https://lunbo.freetv.top/yy/1354936244
-#EXTINF:-1,tvg-id="守望的天空-泪目电视剧" tvg-name="守望的天空-泪目电视剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",守望的天空-泪目电视剧「YY」
-https://lunbo.freetv.top/yy/1382736843
-#EXTINF:-1,tvg-id="娘亲舅大" tvg-name="娘亲舅大" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",娘亲舅大「YY」
-https://lunbo.freetv.top/yy/1354932360
-#EXTINF:-1,tvg-id="西游记张卫健版" tvg-name="西游记张卫健版" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",西游记•张卫健「YY」
-https://lunbo.freetv.top/yy/1354936155
-#EXTINF:-1,tvg-id="溏心风暴之家好月圆" tvg-name="溏心风暴之家好月圆" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",溏心风暴之家好月圆「YY」
-https://lunbo.freetv.top/yy/1354888747
-#EXTINF:-1,tvg-id="耀舞长安-港剧" tvg-name="耀舞长安-港剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",耀舞长安-港剧「YY」
-https://lunbo.freetv.top/yy/1382741640
-#EXTINF:-1,tvg-id="大明王朝" tvg-name="大明王朝" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",大明王朝「YY」
-https://lunbo.freetv.top/yy/1382736879
 #EXTINF:-1,tvg-id="知否知否应是绿肥红瘦" tvg-name="知否知否应是绿肥红瘦" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",知否知否应是绿肥红瘦「YY」
 http://11.xmyxc.cn/api/php/yy.php?id=21881901&uid=461123160
 #EXTINF:-1,tvg-id="神医喜来乐" tvg-name="神医喜来乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",神医喜来乐「YY」
 http://11.xmyxc.cn/api/php/yy.php?id=1382714119&uid=2244059750
 #EXTINF:-1,tvg-id="正阳门下" tvg-name="正阳门下" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",正阳门下「YY」
 http://11.xmyxc.cn/api/php/yy.php?id=1354931580&uid=2705646910
-#EXTINF:-1,tvg-id="林正英电影" tvg-name="林正英电影" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",林正英•电影「YY」
-http://11.xmyxc.cn/api/php/yy.php?id=34229877&uid=1536159096
 #EXTINF:-1,tvg-id="林正英鬼片" tvg-name="林正英鬼片" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",林正英•鬼片「YY」
 http://11.xmyxc.cn/api/php/yy.php?id=1351505899&uid=1150685483
 #EXTINF:-1,tvg-id="林正英经典" tvg-name="林正英经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",林正英•经典「YY」
@@ -1459,69 +1060,11 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 #EXTINF:-1 tvg-id="咪咕" tvg-name="咪咕视频 38" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/咪咕视频.png" group-title="📺 咪咕視頻",咪咕直播 38
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 
-#📺 YOUTUBE直播
-#EXTINF:-1 tvg-name="中天新闻" group-title="YouTube直播",中天新聞
-https://yang-1989.eu.org/youtube/oIgbl7t0S_w
-#EXTINF:-1 group-title="YouTube直播",中天新聞2
-https://yang-1989.eu.org/youtube/WPfPjbOLNfE
-#EXTINF:-1 group-title="YouTube直播",東森新聞
-https://yang-1989.eu.org/youtube/2dfAzcDf8Zg
-#EXTINF:-1 group-title="YouTube直播",東森財經新聞
-https://yang-1989.eu.org/youtube/WHEPzbFA3hw
-#EXTINF:-1 group-title="YouTube直播",東森財經股市
-https://yang-1989.eu.org/youtube/LbS-xQ67fos
-#EXTINF:-1 group-title="YouTube直播",台視新聞
-https://yang-1989.eu.org/youtube/xL0ch83RAK8
-#EXTINF:-1 group-title="YouTube直播",中視新聞
-https://yang-1989.eu.org/youtube/TCnaIE_SAtM
-#EXTINF:-1 group-title="YouTube直播",寰宇新聞
-https://yang-1989.eu.org/youtube/6IquAgfvYmc
-#EXTINF:-1 group-title="YouTube直播",公視新聞
-https://yang-1989.eu.org/youtube/quwqlazU-c8
-#EXTINF:-1 tvg-name="cctv4" group-title="YouTube直播",CCTV4 中文国际
-https://yang-1989.eu.org/youtube/bEZYrBMYNNg
-#EXTINF:-1 group-title="YouTube直播",鳳凰衛視資訊
-https://yang-1989.eu.org/youtube/HFib76ySpbU
-#EXTINF:-1 group-title="YouTube直播",民視新聞
-https://yang-1989.eu.org/youtube/ylYJSBUgaMA
-#EXTINF:-1 group-title="YouTube直播",鏡新聞
-https://yang-1989.eu.org/youtube/5n0y6b0Q25o
-#EXTINF:-1 group-title="YouTube直播",中視經典綜藝
-https://yang-1989.eu.org/youtube/ADDSmXoPDY8
-#EXTINF:-1 group-title="YouTube直播",TVBS NEWS
-https://yang-1989.eu.org/youtube/m_dhMSvUCIc
-#EXTINF:-1 group-title="YouTube直播",三立新聞
-https://yang-1989.eu.org/youtube/oZdzzvxTfUY
-#EXTINF:-1 group-title="YouTube直播",三立 iNEWS
-https://yang-1989.eu.org/youtube/CKjSm5ZeehE
-#EXTINF:-1 group-title="YouTube直播",CNA
-https://yang-1989.eu.org/youtube/XWq5kBlakcQ
-#EXTINF:-1 group-title="YouTube直播",新唐人亞太電視
-https://yang-1989.eu.org/youtube/WIhgU_mc05A
-#EXTINF:-1 group-title="YouTube直播",Eight FM
-https://yang-1989.eu.org/youtube/o1ipHJUfFTM
-#EXTINF:-1 group-title="YouTube直播",ANN NEWS
-https://yang-1989.eu.org/youtube/coYw-eVU0Ks
-#EXTINF:-1 group-title="YouTube直播",TBS NEWS
-https://yang-1989.eu.org/youtube/ohI356mwBp8
-#EXTINF:-1 group-title="YouTube直播",ABC NEWS
-https://yang-1989.eu.org/youtube/gN0PZCe-kwQ
-#EXTINF:-1 group-title="YouTube直播",NHK NEWS
-https://yang-1989.eu.org/youtube/f0lYkdA-Gtw
-#EXTINF:-1 group-title="YouTube直播",TAIWAN+
-https://yang-1989.eu.org/youtube/ovzTfk5CmIE
-#EXTINF:-1 group-title="YouTube直播",DW NEWS
-https://yang-1989.eu.org/youtube/pqabxBKzZ6M
-#EXTINF:-1 group-title="YouTube直播",8视界
-https://yang-1989.eu.org/youtube/RvSOIM620bA
-
 #📺 18禁频道
 #EXTINF:-1 group-title="18禁频道",18禁频道1
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道2
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道3
-Xhttp://live.adultiptv.net/rough.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道4
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道5
@@ -1598,8 +1141,6 @@ http://live.mycamtv.com/blonde.m3u8
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道26
 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道SEXArt,h
-ttp://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6253/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道BigDick
 http://cdn.redtraffic.net/bigdick.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道27
@@ -1618,8 +1159,6 @@ http://cdn.redtraffic.net/bigass.m3u8
 http://live.redtraffic.xyz:80/bigass.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道33
 http://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道34
-http://live.redtraffic.xyz/bigass.m3u840c3c321681a14082b2b5770828910904e38ae2d1176ac1084582c805cce0795
 #EXTINF:-1 group-title="18禁频道",18禁频道Blowjob
 http://cdn.redtraffic.net/blowjob.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道35
@@ -1645,28 +1184,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6183/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/brunette.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-Cum Louder,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6189/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-HOT,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6275/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Alex Legend,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12193/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-DE Lust pur HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20024/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Pornstar Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6243/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BBC Pie,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12164/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BLACKED,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6178/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dorcel Club,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6197/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic 7,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6294/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6294/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hardcore Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6219/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hitzefrei HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6220/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
 JapanHDV,http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6225/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6225/index.m3u8
@@ -1681,241 +1198,225 @@ http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6225/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://05293b01.ottolok.net/iptv/5ZBKQAEG9QQXS2/6225/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-Little Asians HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6230/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-MILF,http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/milf.m3u8#http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PASSIE TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12136/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Public Agent,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12119/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12116/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6246/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-Deep Lush,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12139/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic 5,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12150/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic 8,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6295/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12153/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6295/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fap TV Lesbian,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6209/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hustler HD Europe,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/244/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-SINematica,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6255/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-MetArt HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12160/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6233/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Prokop TV XXX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19401/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Balkan Erotic,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6270/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Big Tits,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6177/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fap TV Lesbian 
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6209/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Hustler HD Europe
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/244/index.m3u8
+#EXTINF:-1 group-title="18禁频道",SINematica
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6255/index.m3u8
+#EXTINF:-1 group-title="18禁频道",MetArt HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12160/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6233/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Prokop TV XXX
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19401/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Balkan Erotic
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6270/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Big Tits
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6177/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/bigtits.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.redtraffic.net/bigtits.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Monsters of Cock,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6235/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Cum4k,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6190/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Monsters of Cock
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6235/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Cum4k
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6190/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12157/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-EROX XXX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/5015/index.m3u8
+#EXTINF:-1 group-title="18禁频道",EROX XXX
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/5015/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fetish Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6213/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Evil Angel HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6199/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fetish Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6213/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Evil Angel HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6199/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6201/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-TEEN Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6256/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BLUE HUSTLER,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/1064/index.m3u8
+#EXTINF:-1 group-title="18禁频道",TEEN Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6256/index.m3u8
+#EXTINF:-1 group-title="18禁频道",BLUE HUSTLER
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/1064/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Babes TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6172/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Banana Fever,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12168/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-KinoXXX,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/11052/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-RED XXX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6281/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-CineMan ExExEx TWO,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20090/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic 4,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6292/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Babes TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6172/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Banana Fever
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12168/index.m3u8
+#EXTINF:-1 group-title="18禁频道",KinoXXX
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/11052/index.m3u8
+#EXTINF:-1 group-title="18禁频道",RED XXX
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6281/index.m3u8
+#EXTINF:-1 group-title="18禁频道",CineMan ExExEx TWO
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20090/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Erotic 4
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6292/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6292/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6241/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic 6,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12151/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Erotic 6
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12151/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6293/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6293/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-FemJoy,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6212/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Gangbang,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6214/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Interracial Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6224/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Kinoshka Adult HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18060/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-O LA LA orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9068/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PLAYBOY LA,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6280/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Asian Girls,http://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dad Crush,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12154/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dane Jones,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12143/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic3,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6240/index.m3u8
+#EXTINF:-1 group-title="18禁频道",FemJoy
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6212/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Gangbang
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6214/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Interracial Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6224/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Kinoshka Adult HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18060/index.m3u8
+#EXTINF:-1 group-title="18禁频道",O LA LA orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9068/index.m3u8
+#EXTINF:-1 group-title="18禁频道",PLAYBOY LA
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6280/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Asian Girls
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 group-title="18禁频道",Dad Crush
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12154/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Dane Jones
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12143/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Erotic3
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6240/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6291/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12148/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6291/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hot Pleasure,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6277/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-LATINA TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12172/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-MYLF TV HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6236/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-ox-ax HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6239/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Anal Time,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12181/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Bang Bros HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6173/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Bang POV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12166/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Cuckold,http://live.redtraffic.xyz/cuckold.m3u8#http://live.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-DE Penthouse Passion HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20025/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dorcel TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12131/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-DUSK,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6198/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Hot Pleasure
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6277/index.m3u8
+#EXTINF:-1 group-title="18禁频道",LATINA TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12172/index.m3u8
+#EXTINF:-1 group-title="18禁频道",MYLF TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6236/index.m3u8
+#EXTINF:-1 group-title="18禁频道",ox-ax HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6239/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Anal Time
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12181/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Bang Bros HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6173/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Bang POV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12166/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8#http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="18禁频道",DE Penthouse Passion HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20025/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Dorcel TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12131/index.m3u8
+#EXTINF:-1 group-title="18禁频道",DUSK
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6198/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12129/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic 2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6290/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Erotic 2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6290/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12147/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6290/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hot Guys Fuck,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6223/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-LEO TV FHD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6272/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Hot Guys Fuck
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6223/index.m3u8
+#EXTINF:-1 group-title="18禁频道",LEO TV FHD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6272/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12123/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Liberty Эротика 4K,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/16069/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-POV Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6244/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Brand New Amateurs,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12162/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Cuckold Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6188/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-DDF Network,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6194/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Digital Desire HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6195/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dirty Wives Club,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12122/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Euro Girls On Girls,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12108/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Family Strokes,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12156/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Latina Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6226/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Liberty Эротика 4K
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/16069/index.m3u8
+#EXTINF:-1 group-title="18禁频道",POV Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6244/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Brand New Amateurs
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12162/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Cuckold Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6188/index.m3u8
+#EXTINF:-1 group-title="18禁频道",DDF Network
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6194/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Digital Desire HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6195/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Dirty Wives Club
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12122/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Euro Girls On Girls
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12108/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Family Strokes
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12156/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Latina Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6226/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6226/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-POV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8
+#EXTINF:-1 group-title="18禁频道",POV
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12175/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 DE Playboy Europe,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20026/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Deep Throat Sirens,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12138/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Got MYLF,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6216/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hustler HD orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9065/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PASSION XXX,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12120/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BAG U,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12170/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Big Ass Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6175/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Evolved Fights,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6200/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Anal Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6167/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PLAYBOY 3,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Deep Throat Sirens
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12138/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Got MYLF
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6216/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Hustler HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9065/index.m3u8
+#EXTINF:-1 group-title="18禁频道",PASSION XXX
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12120/index.m3u8
+#EXTINF:-1 group-title="18禁频道",BAG U
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12170/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Big Ass Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6175/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Evolved Fights
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6200/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Anal Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6167/index.m3u8
+#EXTINF:-1 group-title="18禁频道",PLAYBOY 3
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-TEEN Girls,http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-VIVID TV EUROPE,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6264/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Redlight HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9066/index.m3u8
+#EXTINF:-1 group-title="18禁频道",TEEN Girls
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 group-title="18禁频道",VIVID TV EUROPE
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6264/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Redlight HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9066/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12117/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://213.226.69.130/iptv/BF9GWX8VNPYM9X/242/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Brazzers Europa 2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/910/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-RK Prime,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6248/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Visit-X TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6263/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-XXXINTERRACIAL TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12171/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Private HD,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Brazzers Europa 2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/910/index.m3u8
+#EXTINF:-1 group-title="18禁频道",RK Prime 
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6248/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Visit-X TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6263/index.m3u8
+#EXTINF:-1 group-title="18禁频道",XXXINTERRACIAL TV,
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12171/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Private HD
+http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6245/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Japanese,http://cdn.adultiptv.net/japanese.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Anal,http://cdn.redtraffic.net/anal.m3u8
+#EXTINF:-1 group-title="18禁频道",Japanese
+http://cdn.adultiptv.net/japanese.m3u8
+#EXTINF:-1 group-title="18禁频道",Anal
+http://cdn.redtraffic.net/anal.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.mycamtv.com/anal.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Pandora TV,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Yosso TV Sexy,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14176/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BCU Charm HD,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18053/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Pandora TV
+https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+#EXTINF:-1 group-title="18禁频道",Yosso TV Sexy
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14176/index.m3u8
+#EXTINF:-1 group-title="18禁频道",BCU Charm HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18053/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18053/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
@@ -1927,232 +1428,233 @@ Alba XXX HD 1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12106/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12105/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
-JapanHDV,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Brazzers Europa 1,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6225/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Brazzers Europa 1
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Ebony Girls,http://live.mycamtv.com/ebony.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-XXX Love\'s Berry HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14140/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Song1 TV,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Reality Kings HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6247/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fap TV Compilation,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6208/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-XY Max HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6286/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Wicked,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6268/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-TUSHY RAW,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6262/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-We Live Together,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6266/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Кино 18 + HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18075/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Ebony Girls
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:-1 group-title="18禁频道",XXX Love\'s Berry HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14140/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Song1 TV
+https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+#EXTINF:-1 group-title="18禁频道",Reality Kings HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6247/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fap TV Compilation
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6208/index.m3u8
+#EXTINF:-1 group-title="18禁频道",XY Max HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6286/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Wicked
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6268/index.m3u8
+#EXTINF:-1 group-title="18禁频道",TUSHY RAW
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6262/index.m3u8
+#EXTINF:-1 group-title="18禁频道",We Live Together
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6266/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Кино 18 + HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18075/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18075/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18075/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-White Girls,http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Amazing TV,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-White Boxxx,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6267/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Alba XXX HD 2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12194/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PENTHOUSE QUICKIES,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Vixen HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6265/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-TINY TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6258/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-TEEN,http://cdn.redtraffic.net/teen.m3u8#http://live.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PURE BABES,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12112/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dirty Masseur,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12128/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic Spice,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12110/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Arab Girls,http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Bang!,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6174/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Blowjob Red TV,http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dancing Bear,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12144/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Family Swap,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12155/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hands on Hardcore,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6217/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Nubiles TV HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6238/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Anal Teen Angels,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12183/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Asshole Fever,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12169/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-CineMan ExExEx ONE,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20089/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Day with a Pornstar,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6192/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-MILF Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6234/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-SEXY HOT,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6282/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Club 17,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6186/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-NAUGHTY AMERICA,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6237/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Bang Bus,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12167/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Beate Uhse,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12163/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Cento X Cento,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6184/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hot and Mean,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6222/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PLAYBOY TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12135/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-SKY HIGH SEX VR,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19406/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Amateur Boxxx,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12191/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dark X,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12140/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Digital Playground HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6196/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dorcel TV orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9067/index.m3u8
+#EXTINF:-1 group-title="18禁频道",White Girls
+http://live.mycamtv.com/white.m3u8
+#EXTINF:-1 group-title="18禁频道",Amazing TV
+https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+#EXTINF:-1 group-title="18禁频道",White Boxxx
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6267/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Alba XXX HD 2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12194/index.m3u8
+#EXTINF:-1 group-title="18禁频道",PENTHOUSE QUICKIES
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+#EXTINF:-1 group-title="18禁频道",Vixen HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6265/index.m3u8
+#EXTINF:-1 group-title="18禁频道",TINY TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6258/index.m3u8
+#EXTINF:-1 group-title="18禁频道",TEEN
+http://cdn.redtraffic.net/teen.m3u8#http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="18禁频道",PURE BABES
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12112/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Dirty Masseur
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12128/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Erotic Spice
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12110/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Arab Girls
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 group-title="18禁频道",Bang!
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6174/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Big Ass Girls
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:-1 group-title="18禁频道",Blowjob Red TV
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 group-title="18禁频道",Dancing Bear
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12144/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Family Swap
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12155/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Hands on Hardcore
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6217/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Nubiles TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6238/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Anal Teen Angels
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12183/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Asshole Fever
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12169/index.m3u8
+#EXTINF:-1 group-title="18禁频道",CineMan ExExEx ONE
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20089/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Day with a Pornstar
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6192/index.m3u8
+#EXTINF:-1 group-title="18禁频道",MILF Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6234/index.m3u8
+#EXTINF:-1 group-title="18禁频道",SEXY HOT
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6282/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Club 17
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6186/index.m3u8
+#EXTINF:-1 group-title="18禁频道",NAUGHTY AMERICA
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6237/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Bang Bus
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12167/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Beate Uhse
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12163/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Cento X Cento
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6184/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Hot and Mean
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6222/index.m3u8
+#EXTINF:-1 group-title="18禁频道",PLAYBOY TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12135/index.m3u8
+#EXTINF:-1 group-title="18禁频道",SKY HIGH SEX VR
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19406/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Amateur Boxxx
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12191/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Dark X
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12140/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Digital Playground HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6196/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Dorcel TV orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9067/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9064/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotica X,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12109/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Family Hookups,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9345/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fap TV 2,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6203/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Gay Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6215/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Lethal Hardcore,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6229/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
+#EXTINF:-1 group-title="18禁频道",Erotica X
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12109/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Family Hookups
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9345/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fap TV 2
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6203/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Gay Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6215/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Lethal Hardcore
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6229/index.m3u8
+#EXTINF:-1 group-title="18禁频道",MILF TV
 MILF TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12173/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Anal 4K,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12190/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-SUPER ONE,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12121/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Anal 4K
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12190/index.m3u8
+#EXTINF:-1 group-title="18禁频道",SUPER ONE
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12121/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6298/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-EXXXOTICA HD orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9346/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-FREE X TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12134/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-THREESOME TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12180/index.m3u8
+#EXTINF:-1 group-title="18禁频道",EXXXOTICA HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9346/index.m3u8
+#EXTINF:-1 group-title="18禁频道",FREE X TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12134/index.m3u8
+#EXTINF:-1 group-title="18禁频道",THREESOME TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12180/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Extreme,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6273/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Meiden Van Holland,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12125/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Anal Only,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12184/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fap TV Parody,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6210/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Extreme
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6273/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Meiden Van Holland
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12125/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Anal Only
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12184/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fap TV Parody
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6210/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 PORNSTAR TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12174/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Exotic 4k,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12107/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18禁频道",Exotic 4k
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12107/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18禁频道",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://213.226.69.130/iptv/BF9GWX8VNPYM9X/245/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-DDF Busty,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6193/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-THREESOM Red TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6257/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Analized HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6168/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Cum Perfection,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12158/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-DP Fanatics,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12111/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fap TV Teens,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6211/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-HOTWIFE PREMIUM,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12187/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Cherry Pimps,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6185/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Dirty Flix,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12130/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fake Taxi HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6202/index.m3u8
+#EXTINF:-1 group-title="18禁频道",DDF Busty
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6193/index.m3u8
+#EXTINF:-1 group-title="18禁频道",THREESOM Red TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6257/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Analized HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6168/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Cum Perfection
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12158/index.m3u8
+#EXTINF:-1 group-title="18禁频道",DP Fanatics
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12111/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fap TV Teens
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6211/index.m3u8
+#EXTINF:-1 group-title="18禁频道",HOTWIFE PREMIUM
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12187/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Cherry Pimps,
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6185/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Dirty Flix,
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12130/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fake Taxi HD
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6202/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6202/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fap TV Anal,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6206/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Live Cams Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6231/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Anal Mom,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12189/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-AST TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6170/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Bratty Sis,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12161/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-FRENCH LOVER,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12124/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fap TV Anal
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6206/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Live Cams Adult TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6231/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Anal Mom
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12189/index.m3u8
+#EXTINF:-1 group-title="18禁频道",AST TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6170/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Bratty Sis
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12161/index.m3u8
+#EXTINF:-1 group-title="18禁频道",FRENCH LOVER
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12124/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 Holed,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6221/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic 1,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6289/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-BARELY LEGAL TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12165/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Erotic,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6289/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hard X,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6218/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Lust Cinema,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6232/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Fap TV 3,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6204/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-YOUNG Girls,http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Asian,http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="18禁频道",Erotic 1
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6289/index.m3u8
+#EXTINF:-1 group-title="18禁频道",BARELY LEGAL TV
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12165/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Erotic
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6289/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Hard X
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6218/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Lust Cinema
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6232/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Fap TV 3
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6204/index.m3u8
+#EXTINF:-1 group-title="18禁频道",YOUNG Girls
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 group-title="18禁频道",Asian
+http://live.adultiptv.net/asian.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Banana TV,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PORNBOX,http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Cast,http://88b9da48.kazmazpaz.ru/iptv/4PYL58K99PM8FU/20089/manifest.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Interracial,http://cdn.redtraffic.net/interracial.m3u8
+#EXTINF:-1 group-title="18禁频道",Banana TV
+https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+#EXTINF:-1 group-title="18禁频道",PORNBOX
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Cast
+http://88b9da48.kazmazpaz.ru/iptv/4PYL58K99PM8FU/20089/manifest.m3u8
+#EXTINF:-1 group-title="18禁频道",Interracial
+http://cdn.redtraffic.net/interracial.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.adultiptv.net/interracial.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Adult Time,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6166/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Bdsm,http://live.redtraffic.xyz/bdsm.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Skinny Girls,http://live.mycamtv.com/skinny.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-PLAYBOY 2,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Hustler HD,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/244/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Eropulse TV,http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 group-title="18禁频道",Adult Time
+http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6166/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Bdsm
+http://live.redtraffic.xyz/bdsm.m3u8
+#EXTINF:-1 group-title="18禁频道",Skinny Girls
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道1 Babestation,
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="18禁频道",18禁频道1 PLAYBOY 2
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Hustler HD
+http://213.226.69.130/iptv/BF9GWX8VNPYM9X/244/index.m3u8
+#EXTINF:-1 group-title="18禁频道",Eropulse TV,
+http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
