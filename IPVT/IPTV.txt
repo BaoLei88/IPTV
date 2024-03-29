@@ -605,8 +605,6 @@ http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/凤凰资讯.png" group-title="📺 港澳台频道",鳳凰衛視資訊 Ⅰ
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/凤凰资讯.png" group-title="📺 港澳台频道",鳳凰衛視資訊 Ⅱ
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/纬来体育.png" group-title="📺 港澳台频道",緯來體育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1,tvg-id="TVBS欢乐" tvg-name="TVBS欢乐台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/TVBS欢乐.png" group-title="📺 港澳台频道",歡樂•TVBS
@@ -671,10 +669,6 @@ https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 http://60.10.203.69:8000/4.m3u8
 #EXTINF:-1,tvg-id="经典功夫" tvg-name="经典功夫" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/星空经典功夫.png" group-title="📺 港澳台频道",經典功夫•星空「成都」
 http://47.109.155.164/%E5%B0%8F%E6%9B%BE/yy.php?id=1355002394
-#EXTINF:-1,tvg-id="真武侠台" tvg-name="真武侠台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/真武侠台.png" group-title="📺 港澳台频道",真武俠
-http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1199632572132-1199632572132-7318565434771983384-2399265267720-10057-A-1703986510-1.flv
-#EXTINF:-1,tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/经典电影台.png" group-title="📺 港澳台频道",經典電影
-http://cfss.cc/cdn/yy/1355260662.flv
 #EXTINF:-1,tvg-id="佛卫慈悲" tvg-name="佛卫慈悲台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/香港佛陀.png" group-title="📺 港澳台频道",佛衛慈悲
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 
@@ -737,96 +731,98 @@ https://iptv.hiper25.com/gdjjkj/video.m3u8
 https://iptv.hiper25.com/dwq/video.m3u8
 
 #🎥 影视轮播
-#EXTINF:-1 tvg-id="封神榜" tvg-name="封神榜" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",封神榜「虎牙」
+#EXTINF:-1 tvg-id="封神榜" tvg-name="封神榜" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",封神榜「虎牙」
 http://cfss.cc/cdn/hy/23749096.flv
-#EXTINF:-1 tvg-id="西游记•张卫健版 Ⅰ" tvg-name="西游记•张卫健版 Ⅰ" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",西游记•张卫健版 Ⅰ「虎牙」
+#EXTINF:-1 tvg-id="西游记•张卫健版 Ⅰ" tvg-name="西游记•张卫健版 Ⅰ" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",西游记•张卫健版 Ⅰ「虎牙」
 http://cfss.cc/cdn/hy/23735126.flv
-#EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",楚汉骄雄「虎牙」
+#EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",楚汉骄雄「虎牙」
 http://cfss.cc/cdn/hy/23740156.flv
-#EXTINF:-1 tvg-id="鹿鼎记•陈小春" tvg-name="鹿鼎记•陈小春" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",鹿鼎记•陈小春「虎牙」
+#EXTINF:-1 tvg-id="鹿鼎记•陈小春" tvg-name="鹿鼎记•陈小春" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",鹿鼎记•陈小春「虎牙」
 http://cfss.cc/cdn/hy/23865080.flv
-#EXTINF:-1 tvg-id="鹿鼎记•梁朝伟" tvg-name="鹿鼎记•梁朝伟" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",鹿鼎记•梁朝伟「虎牙」
+#EXTINF:-1 tvg-id="鹿鼎记•梁朝伟" tvg-name="鹿鼎记•梁朝伟" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",鹿鼎记•梁朝伟「虎牙」
 http://cfss.cc/cdn/hy/23734183.flv
-#EXTINF:-1 tvg-id="天龙八部•1997" tvg-name="天龙八部•1997" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",天龙八部•1997「虎牙」
+#EXTINF:-1 tvg-id="天龙八部•1997" tvg-name="天龙八部•1997" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",天龙八部•1997「虎牙」
 http://cfss.cc/cdn/hy/23903123.flv
-#EXTINF:-1 tvg-id="刑事侦缉档案" tvg-name="刑事侦缉档案" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",刑事侦缉档案「虎牙」
+#EXTINF:-1 tvg-id="刑事侦缉档案" tvg-name="刑事侦缉档案" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",刑事侦缉档案「虎牙」
 http://cfss.cc/cdn/hy/23734169.flv
-#EXTINF:-1 tvg-id="寻秦记" tvg-name="寻秦记" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",寻秦记「虎牙」
+#EXTINF:-1 tvg-id="寻秦记" tvg-name="寻秦记" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",寻秦记「虎牙」
 http://cfss.cc/cdn/hy/23864973.flv
-#EXTINF:-1 tvg-id="法证先锋" tvg-name="法证先锋" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",法证先锋「虎牙」
+#EXTINF:-1 tvg-id="法证先锋" tvg-name="法证先锋" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",法证先锋「虎牙」
 http://cfss.cc/cdn/hy/23863804.flv
-#EXTINF:-1 tvg-id="陀枪师姐" tvg-name="陀枪师姐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",陀枪师姐「虎牙」
+#EXTINF:-1 tvg-id="陀枪师姐" tvg-name="陀枪师姐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",陀枪师姐「虎牙」
 http://cfss.cc/cdn/hy/23860039.flv
-#EXTINF:-1 tvg-id="笑傲江湖•吕颂贤" tvg-name="笑傲江湖•吕颂贤" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",笑傲江湖•吕颂贤「虎牙」
+#EXTINF:-1 tvg-id="笑傲江湖•吕颂贤" tvg-name="笑傲江湖•吕颂贤" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",笑傲江湖•吕颂贤「虎牙」
 http://cfss.cc/cdn/hy/23865142.flv
-#EXTINF:-1 tvg-id="洗冤录" tvg-name="洗冤录" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",洗冤录「虎牙」
+#EXTINF:-1 tvg-id="洗冤录" tvg-name="洗冤录" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",洗冤录「虎牙」
 http://cfss.cc/cdn/hy/23903130.flv
-#EXTINF:-1 tvg-id="倚天屠龙记•吴启华" tvg-name="倚天屠龙记•吴启华" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",倚天屠龙记•吴启华「虎牙」
+#EXTINF:-1 tvg-id="倚天屠龙记•吴启华" tvg-name="倚天屠龙记•吴启华" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",倚天屠龙记•吴启华「虎牙」
 http://cfss.cc/cdn/hy/23734246.flv
-#EXTINF:-1 tvg-id="神雕侠侣•古天乐" tvg-name="神雕侠侣•古天乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",神雕侠侣•古天乐「虎牙」
+#EXTINF:-1 tvg-id="神雕侠侣•古天乐" tvg-name="神雕侠侣•古天乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",神雕侠侣•古天乐「虎牙」
 http://cfss.cc/cdn/hy/23865171.flv
-#EXTINF:-1 tvg-id="鉴证实录" tvg-name="鉴证实录" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",鉴证实录「虎牙」
+#EXTINF:-1 tvg-id="鉴证实录" tvg-name="鉴证实录" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",鉴证实录「虎牙」
 http://cfss.cc/cdn/hy/23903183.flv
-#EXTINF:-1 tvg-id="创世纪" tvg-name="创世纪" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",创世纪「虎牙」
+#EXTINF:-1 tvg-id="创世纪" tvg-name="创世纪" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",创世纪「虎牙」
 http://cfss.cc/cdn/hy/23749083.flv
-#EXTINF:-1 tvg-id="使徒行者" tvg-name="使徒行者" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",使徒行者「虎牙」
+#EXTINF:-1 tvg-id="使徒行者" tvg-name="使徒行者" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",使徒行者「虎牙」
 http://cfss.cc/cdn/hy/23734256.flv
-#EXTINF:-1 tvg-id="金枝欲孽" tvg-name="金枝欲孽" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",金枝欲孽「虎牙」
-http://cfss.cc/cdn/hy/23865036.flv
-#EXTINF:-1 tvg-id="大唐双龙传" tvg-name="大唐双龙传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",大唐双龙传「虎牙」
+#EXTINF:-1 tvg-id="大唐双龙传" tvg-name="大唐双龙传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",大唐双龙传「虎牙」
 http://cfss.cc/cdn/hy/23728674.flv
-#EXTINF:-1 tvg-id="妙手仁心" tvg-name="妙手仁心" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",妙手仁心「虎牙」
+#EXTINF:-1 tvg-id="妙手仁心" tvg-name="妙手仁心" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",妙手仁心「虎牙」
 http://cfss.cc/cdn/hy/23829543.flv
-#EXTINF:-1 tvg-id="扫黄先锋" tvg-name="扫黄先锋" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",扫黄先锋「虎牙」
+#EXTINF:-1 tvg-id="扫黄先锋" tvg-name="扫黄先锋" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",扫黄先锋「虎牙」
 http://cfss.cc/cdn/hy/23903196.flv
-#EXTINF:-1 tvg-id="笑看风云" tvg-name="笑看风云" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",笑看风云「虎牙」
+#EXTINF:-1 tvg-id="笑看风云" tvg-name="笑看风云" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",笑看风云「虎牙」
 http://cfss.cc/cdn/hy/23865058.flv
-#EXTINF:-1 tvg-id="大时代" tvg-name="大时代" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",大时代「虎牙」
+#EXTINF:-1 tvg-id="大时代" tvg-name="大时代" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影视轮播",大时代「虎牙」
 http://cfss.cc/cdn/hy/23865161.flv
-#EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/斗罗大陆.png" group-title="🎥 影視輪播",斗罗大陆•唐家三少「虎牙」
-http://cfss.cc/cdn/hy/11352906.flv
-#EXTINF:-1 tvg-id="许冠英" tvg-name="许冠英" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",许冠英「虎牙」
-http://cfss.cc/cdn/hy/11601972.flv
-#EXTINF:-1 tvg-id="五福星" tvg-name="五福星" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",五福星「虎牙」
-http://cfss.cc/cdn/hy/11282233.flv
-#EXTINF:-1 tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",周星驰「虎牙」
-http://cfss.cc/cdn/hy/11342412.flv
-#EXTINF:-1 tvg-id="成龙" tvg-name="成龙" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",成龙「虎牙」
-http://cfss.cc/cdn/hy/11342386.flv
-#EXTINF:-1 tvg-id="周润发" tvg-name="周润发" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",周润发「虎牙」
-http://cfss.cc/cdn/hy/11342387.flv
-#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",李连杰「虎牙」
-http://cfss.cc/cdn/hy/11342390.flv
-#EXTINF:-1 tvg-id="邱淑贞" tvg-name="邱淑贞" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",邱淑贞「虎牙」
-http://cfss.cc/cdn/hy/11352949.flv
-#EXTINF:-1 tvg-id="刘德华" tvg-name="刘德华" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",刘德华「虎牙」
-http://cfss.cc/cdn/hy/11342424.flv
-#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播•虎牙"林正英「虎牙」
-http://cfss.cc/cdn/hy/11342421.flv
-#EXTINF:-1 tvg-id="徐峥" tvg-name="徐峥" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",徐峥「虎牙」
-http://cfss.cc/cdn/hy/11602043.flv
-#EXTINF:-1 tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",沈腾「虎牙」
-http://cfss.cc/cdn/hy/11601968.flv
-#EXTINF:-1 tvg-id="古天乐" tvg-name="古天乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",古天乐「虎牙」
-http://cfss.cc/cdn/hy/11602041.flv
-#EXTINF:-1 tvg-id="洪金宝" tvg-name="洪金宝" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",洪金宝「虎牙」
-http://cfss.cc/cdn/hy/11279251.flv
-#EXTINF:-1 tvg-id="徐克" tvg-name="徐克" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",徐克「虎牙」
-http://cfss.cc/cdn/hy/11352909.flv
-#EXTINF:-1 tvg-id="黄渤" tvg-name="黄渤" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 影視輪播",黄渤「虎牙」
-http://cfss.cc/cdn/hy/11352876.flv
-#EXTINF:-1,tvg-id="知否知否应是绿肥红瘦" tvg-name="知否知否应是绿肥红瘦" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",知否知否应是绿肥红瘦「YY」
+#EXTINF:-1,tvg-id="知否知否应是绿肥红瘦" tvg-name="知否知否应是绿肥红瘦" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影视轮播",知否知否应是绿肥红瘦「YY」
 http://11.xmyxc.cn/api/php/yy.php?id=21881901&uid=461123160
-#EXTINF:-1,tvg-id="神医喜来乐" tvg-name="神医喜来乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",神医喜来乐「YY」
+#EXTINF:-1,tvg-id="神医喜来乐" tvg-name="神医喜来乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影视轮播",神医喜来乐「YY」
 http://11.xmyxc.cn/api/php/yy.php?id=1382714119&uid=2244059750
-#EXTINF:-1,tvg-id="正阳门下" tvg-name="正阳门下" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",正阳门下「YY」
+#EXTINF:-1,tvg-id="正阳门下" tvg-name="正阳门下" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影视轮播",正阳门下「YY」
 http://11.xmyxc.cn/api/php/yy.php?id=1354931580&uid=2705646910
-#EXTINF:-1,tvg-id="林正英鬼片" tvg-name="林正英鬼片" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",林正英•鬼片「YY」
-http://11.xmyxc.cn/api/php/yy.php?id=1351505899&uid=1150685483
-#EXTINF:-1,tvg-id="林正英经典" tvg-name="林正英经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",林正英•经典「YY」
-http://11.xmyxc.cn/api/php/yy.php?id=1353685311
-#EXTINF:-1,tvg-id="射雕英雄传" tvg-name="射雕英雄传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影視輪播",射雕英雄传•1983「YY」
+#EXTINF:-1,tvg-id="射雕英雄传" tvg-name="射雕英雄传" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 影视轮播",射雕英雄传•1983「YY」
 http://11.xmyxc.cn/api/php/yy.php?id=1354210357
+
+#📺 斗罗大陆
+#EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/斗罗大陆.png" group-title="🎥 斗罗大陆",斗罗大陆•唐家三少「虎牙」
+http://cfss.cc/cdn/hy/11352906.flv
+
+#📺 明星电影轮播
+#EXTINF:-1,tvg-id="林正英鬼片" tvg-name="林正英鬼片" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 明星电影轮播",林正英•鬼片「YY」
+http://11.xmyxc.cn/api/php/yy.php?id=1351505899&uid=1150685483
+#EXTINF:-1,tvg-id="林正英经典" tvg-name="林正英经典" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/YY直播.png" group-title="🎥 明星电影轮播",林正英•经典「YY」
+http://11.xmyxc.cn/api/php/yy.php?id=1353685311
+#EXTINF:-1 tvg-id="许冠英" tvg-name="许冠英" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",许冠英「虎牙」
+http://cfss.cc/cdn/hy/11601972.flv
+#EXTINF:-1 tvg-id="五福星" tvg-name="五福星" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",五福星「虎牙」
+http://cfss.cc/cdn/hy/11282233.flv
+#EXTINF:-1 tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",周星驰「虎牙」
+http://cfss.cc/cdn/hy/11342412.flv
+#EXTINF:-1 tvg-id="成龙" tvg-name="成龙" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",成龙「虎牙」
+http://cfss.cc/cdn/hy/11342386.flv
+#EXTINF:-1 tvg-id="周润发" tvg-name="周润发" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",周润发「虎牙」
+http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1 tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",李连杰「虎牙」
+http://cfss.cc/cdn/hy/11342390.flv
+#EXTINF:-1 tvg-id="邱淑贞" tvg-name="邱淑贞" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",邱淑贞「虎牙」
+http://cfss.cc/cdn/hy/11352949.flv
+#EXTINF:-1 tvg-id="刘德华" tvg-name="刘德华" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",刘德华「虎牙」
+http://cfss.cc/cdn/hy/11342424.flv
+#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播•虎牙"林正英「虎牙」
+http://cfss.cc/cdn/hy/11342421.flv
+#EXTINF:-1 tvg-id="徐峥" tvg-name="徐峥" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",徐峥「虎牙」
+http://cfss.cc/cdn/hy/11602043.flv
+#EXTINF:-1 tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",沈腾「虎牙」
+http://cfss.cc/cdn/hy/11601968.flv
+#EXTINF:-1 tvg-id="古天乐" tvg-name="古天乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",古天乐「虎牙」
+http://cfss.cc/cdn/hy/11602041.flv
+#EXTINF:-1 tvg-id="洪金宝" tvg-name="洪金宝" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",洪金宝「虎牙」
+http://cfss.cc/cdn/hy/11279251.flv
+#EXTINF:-1 tvg-id="徐克" tvg-name="徐克" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",徐克「虎牙」
+http://cfss.cc/cdn/hy/11352909.flv
+#EXTINF:-1 tvg-id="黄渤" tvg-name="黄渤" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/虎牙直播.png" group-title="🎥 明星电影轮播",黄渤「虎牙」
+http://cfss.cc/cdn/hy/11352876.flv
 
 #📺 华硕TV系列
 #EXTINF:-1 tvg-id="华数4K影院" tvg-name="华数4K影院" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/华数4K影院.png" group-title="📺 華數TV系列",华数TV•4K影院
@@ -1391,8 +1387,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9066/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12117/index.m3u8
 #EXTINF:-1 group-title="18禁频道",18禁频道1 
 http://213.226.69.130/iptv/BF9GWX8VNPYM9X/242/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Brazzers Europa 2
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/910/index.m3u8
 #EXTINF:-1 group-title="18禁频道",RK Prime 
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6248/index.m3u8
 #EXTINF:-1 group-title="18禁频道",Visit-X TV
@@ -1503,8 +1497,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12169/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20089/index.m3u8
 #EXTINF:-1 group-title="18禁频道",Day with a Pornstar
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6192/index.m3u8
-#EXTINF:-1 group-title="18禁频道",MILF Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6234/index.m3u8
 #EXTINF:-1 group-title="18禁频道",SEXY HOT
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6282/index.m3u8
 #EXTINF:-1 group-title="18禁频道",Club 17
@@ -1567,8 +1559,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12125/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12184/index.m3u8
 #EXTINF:-1 group-title="18禁频道",Fap TV Parody
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6210/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-PORNSTAR TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12174/index.m3u8
 #EXTINF:-1 group-title="18禁频道",Exotic 4k
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12107/index.m3u8
 #EXTINF:-1 group-title="18禁频道",Desire
@@ -1611,8 +1601,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6170/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12161/index.m3u8
 #EXTINF:-1 group-title="18禁频道",FRENCH LOVER
 http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12124/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Holed,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6221/index.m3u8
 #EXTINF:-1 group-title="18禁频道",Erotic 1
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6289/index.m3u8
 #EXTINF:-1 group-title="18禁频道",BARELY LEGAL TV
