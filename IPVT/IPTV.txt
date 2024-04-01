@@ -1232,596 +1232,6 @@ http://livetv.skycf.eu.org/live.m3u8?c=8
 #EXTINF:-1 tvg-id="三洋新闻" tvg-name="三洋新闻台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/三洋新闻.png" group-title="📺 台湾频道",三洋新聞
 http://livetv.skycf.eu.org/live.m3u8?c=12
 
-#📺 18禁频道
-#EXTINF:-1 group-title="18禁频道",18禁频道1
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6251/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道2
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道4
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12176/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道5
-http://cdn.redtraffic.net/rough.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道6
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12141/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道7
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6269/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道8
-http://cdn.redtraffic.net/russian.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道9 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12177/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道10
-http://live.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道11 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6250/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道12 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12133/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道13 
-http://168.181.122.234:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道14 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/11117/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道15 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12142/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道16 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6271/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道17 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9344/index.m3u8
-#EXTINF:-1 group-title="18禁频道",XY Plus HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6288/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道18 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12118/index.m3u8
-#EXTINF:-1 group-title="18禁频道",TUSHY TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6261/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道19 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12188/index.m3u8
-#EXTINF:-1 group-title="18禁频道",VERAPORN BIG TITS 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12145/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fap TV BBW
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6207/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Vintage 
-http://live.redtraffic.xyz/vintage.m3u8
-#EXTINF:-1 group-title="18禁频道",VERAPORN 4K
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12137/index.m3u8
-#EXTINF:-1 group-title="18禁频道",RK TV 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6249/index.m3u8
-#EXTINF:-1 group-title="18禁频道",X-MO
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6285/index.m3u8
-#EXTINF:-1 group-title="18禁频道",True Amateurs
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6260/index.m3u8
-#EXTINF:-1 group-title="18禁频道",SEX With Muslims
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6252/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道BrazzersHD 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6181/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道20
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12113/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道21 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6182/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道22 
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道23
-Кино 18+ International,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18076/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道Trans Angels
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6259/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道THREESOM
-http://cdn.redtraffic.net/threesome.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道XY Mix HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6287/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道Blonde
-http://cdn.redtraffic.net/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道24
-http://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道25
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道26
-http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道BigDick
-http://cdn.redtraffic.net/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道27
-http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道28
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6176/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道29
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道30
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道21 
-http://live.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道BigAss
-http://cdn.redtraffic.net/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道32
-http://live.redtraffic.xyz:80/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道33
-http://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道Blowjob
-http://cdn.redtraffic.net/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道35
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道36
-http://live.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道37
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道38 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6180/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道39
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道40
-https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道41
-http://cdn.redtraffic.net/brunette.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6183/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-JapanHDV,http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://05293b01.ottolok.net/iptv/5ZBKQAEG9QQXS2/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.redtraffic.xyz/milf.m3u8#http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12116/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6246/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6295/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fap TV Lesbian 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6209/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Hustler HD Europe
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/244/index.m3u8
-#EXTINF:-1 group-title="18禁频道",SINematica
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6255/index.m3u8
-#EXTINF:-1 group-title="18禁频道",MetArt HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12160/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6233/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Prokop TV XXX
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19401/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Balkan Erotic
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6270/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Big Tits
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6177/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://cdn.redtraffic.net/bigtits.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="18禁频道",Monsters of Cock
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6235/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Cum4k
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6190/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12157/index.m3u8
-#EXTINF:-1 group-title="18禁频道",EROX XXX
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/5015/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fetish Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6213/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Evil Angel HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6199/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6201/index.m3u8
-#EXTINF:-1 group-title="18禁频道",TEEN Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6256/index.m3u8
-#EXTINF:-1 group-title="18禁频道",BLUE HUSTLER
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/1064/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
-#EXTINF:-1 group-title="18禁频道",Babes TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6172/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Banana Fever
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12168/index.m3u8
-#EXTINF:-1 group-title="18禁频道",KinoXXX
-http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/11052/index.m3u8
-#EXTINF:-1 group-title="18禁频道",RED XXX
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6281/index.m3u8
-#EXTINF:-1 group-title="18禁频道",CineMan ExExEx TWO
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20090/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Erotic 4
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6292/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6292/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6241/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Erotic 6
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12151/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6293/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6293/index.m3u8
-#EXTINF:-1 group-title="18禁频道",FemJoy
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6212/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Gangbang
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6214/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Interracial Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6224/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Kinoshka Adult HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18060/index.m3u8
-#EXTINF:-1 group-title="18禁频道",O LA LA orig
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9068/index.m3u8
-#EXTINF:-1 group-title="18禁频道",PLAYBOY LA
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6280/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Asian Girls
-http://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 group-title="18禁频道",Dad Crush
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12154/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Dane Jones
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12143/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Erotic3
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6240/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6291/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12148/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6291/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Hot Pleasure
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6277/index.m3u8
-#EXTINF:-1 group-title="18禁频道",LATINA TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12172/index.m3u8
-#EXTINF:-1 group-title="18禁频道",MYLF TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6236/index.m3u8
-#EXTINF:-1 group-title="18禁频道",ox-ax HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6239/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Anal Time
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12181/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Bang Bros HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6173/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Bang POV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12166/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8#http://live.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="18禁频道",DE Penthouse Passion HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20025/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Dorcel TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12131/index.m3u8
-#EXTINF:-1 group-title="18禁频道",DUSK
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6198/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12129/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Erotic 2
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6290/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12147/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6290/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Hot Guys Fuck
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6223/index.m3u8
-#EXTINF:-1 group-title="18禁频道",LEO TV FHD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6272/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12123/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Liberty Эротика 4K
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/16069/index.m3u8
-#EXTINF:-1 group-title="18禁频道",POV Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6244/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Brand New Amateurs
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12162/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Cuckold Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6188/index.m3u8
-#EXTINF:-1 group-title="18禁频道",DDF Network
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6194/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Digital Desire HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6195/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Dirty Wives Club
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12122/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Euro Girls On Girls
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12108/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Family Strokes
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12156/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Latina Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6226/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6226/index.m3u8
-#EXTINF:-1 group-title="18禁频道",POV
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12175/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-DE Playboy Europe,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20026/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Deep Throat Sirens
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12138/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Got MYLF
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6216/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Hustler HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9065/index.m3u8
-#EXTINF:-1 group-title="18禁频道",PASSION XXX
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12120/index.m3u8
-#EXTINF:-1 group-title="18禁频道",BAG U
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12170/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Big Ass Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6175/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Evolved Fights
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6200/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Anal Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6167/index.m3u8
-#EXTINF:-1 group-title="18禁频道",PLAYBOY 3
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
-#EXTINF:-1 group-title="18禁频道",TEEN Girls
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="18禁频道",VIVID TV EUROPE
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6264/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Redlight HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9066/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12117/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://213.226.69.130/iptv/BF9GWX8VNPYM9X/242/index.m3u8
-#EXTINF:-1 group-title="18禁频道",RK Prime 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6248/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Visit-X TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6263/index.m3u8
-#EXTINF:-1 group-title="18禁频道",XXXINTERRACIAL TV,
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12171/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Private HD
-http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6245/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Japanese
-http://cdn.adultiptv.net/japanese.m3u8
-#EXTINF:-1 group-title="18禁频道",Anal
-http://cdn.redtraffic.net/anal.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="18禁频道",Pandora TV
-https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-#EXTINF:-1 group-title="18禁频道",Yosso TV Sexy
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14176/index.m3u8
-#EXTINF:-1 group-title="18禁频道",BCU Charm HD
-http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18053/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18053/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/18053/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-Alba XXX HD 1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12106/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12105/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6225/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Brazzers Europa 1
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
-#EXTINF:-1 group-title="18禁频道",Ebony Girls
-http://live.mycamtv.com/ebony.m3u8
-#EXTINF:-1 group-title="18禁频道",XXX Love\'s Berry HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/14140/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Song1 TV
-https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-#EXTINF:-1 group-title="18禁频道",Reality Kings HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6247/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fap TV Compilation
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6208/index.m3u8
-#EXTINF:-1 group-title="18禁频道",XY Max HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6286/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Wicked
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6268/index.m3u8
-#EXTINF:-1 group-title="18禁频道",TUSHY RAW
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6262/index.m3u8
-#EXTINF:-1 group-title="18禁频道",We Live Together
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6266/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Кино 18 + HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18075/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18075/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18075/index.m3u8
-#EXTINF:-1 group-title="18禁频道",White Girls
-http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 group-title="18禁频道",Amazing TV
-https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-#EXTINF:-1 group-title="18禁频道",White Boxxx
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6267/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Alba XXX HD 2
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12194/index.m3u8
-#EXTINF:-1 group-title="18禁频道",PENTHOUSE QUICKIES
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-#EXTINF:-1 group-title="18禁频道",Vixen HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6265/index.m3u8
-#EXTINF:-1 group-title="18禁频道",TINY TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6258/index.m3u8
-#EXTINF:-1 group-title="18禁频道",TEEN
-http://cdn.redtraffic.net/teen.m3u8#http://live.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="18禁频道",PURE BABES
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12112/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Dirty Masseur
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12128/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Erotic Spice
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12110/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Arab Girls
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="18禁频道",Bang!
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6174/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Big Ass Girls
-http://live.mycamtv.com/bigass.m3u8
-#EXTINF:-1 group-title="18禁频道",Blowjob Red TV
-http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 group-title="18禁频道",Dancing Bear
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12144/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Family Swap
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12155/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Hands on Hardcore
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6217/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Nubiles TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6238/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Anal Teen Angels
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12183/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Asshole Fever
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12169/index.m3u8
-#EXTINF:-1 group-title="18禁频道",CineMan ExExEx ONE
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/20089/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Day with a Pornstar
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6192/index.m3u8
-#EXTINF:-1 group-title="18禁频道",SEXY HOT
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6282/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Club 17
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6186/index.m3u8
-#EXTINF:-1 group-title="18禁频道",NAUGHTY AMERICA
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6237/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Bang Bus
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12167/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Beate Uhse
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12163/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Cento X Cento
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6184/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Hot and Mean
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6222/index.m3u8
-#EXTINF:-1 group-title="18禁频道",PLAYBOY TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12135/index.m3u8
-#EXTINF:-1 group-title="18禁频道",SKY HIGH SEX VR
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/19406/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Amateur Boxxx
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12191/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Dark X
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12140/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Digital Playground HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6196/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Dorcel TV orig
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9067/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9064/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Erotica X
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12109/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Family Hookups
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9345/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fap TV 2
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6203/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Gay Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6215/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Lethal Hardcore
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6229/index.m3u8
-#EXTINF:-1 group-title="18禁频道",MILF TV
-MILF TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12173/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Anal 4K
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12190/index.m3u8
-#EXTINF:-1 group-title="18禁频道",SUPER ONE
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12121/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6298/index.m3u8
-#EXTINF:-1 group-title="18禁频道",EXXXOTICA HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9346/index.m3u8
-#EXTINF:-1 group-title="18禁频道",FREE X TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12134/index.m3u8
-#EXTINF:-1 group-title="18禁频道",THREESOME TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12180/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
-#EXTINF:-1 group-title="18禁频道",Extreme
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6273/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Meiden Van Holland
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12125/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Anal Only
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12184/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fap TV Parody
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6210/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Exotic 4k
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12107/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18禁频道",Dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://213.226.69.130/iptv/BF9GWX8VNPYM9X/245/index.m3u8
-#EXTINF:-1 group-title="18禁频道",DDF Busty
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6193/index.m3u8
-#EXTINF:-1 group-title="18禁频道",THREESOM Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6257/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Analized HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6168/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Cum Perfection
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12158/index.m3u8
-#EXTINF:-1 group-title="18禁频道",DP Fanatics
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12111/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fap TV Teens
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6211/index.m3u8
-#EXTINF:-1 group-title="18禁频道",HOTWIFE PREMIUM
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12187/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Cherry Pimps,
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6185/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Dirty Flix,
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12130/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fake Taxi HD
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6202/index.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6202/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fap TV Anal
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6206/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Live Cams Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6231/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Anal Mom
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12189/index.m3u8
-#EXTINF:-1 group-title="18禁频道",AST TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6170/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Bratty Sis
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12161/index.m3u8
-#EXTINF:-1 group-title="18禁频道",FRENCH LOVER
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12124/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Erotic 1
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6289/index.m3u8
-#EXTINF:-1 group-title="18禁频道",BARELY LEGAL TV
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/12165/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Erotic
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6289/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Hard X
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6218/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Lust Cinema
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6232/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Fap TV 3
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6204/index.m3u8
-#EXTINF:-1 group-title="18禁频道",YOUNG Girls
-http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 group-title="18禁频道",Asian
-http://live.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="18禁频道",Banana TV
-https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-#EXTINF:-1 group-title="18禁频道",PORNBOX
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Cast
-http://88b9da48.kazmazpaz.ru/iptv/4PYL58K99PM8FU/20089/manifest.m3u8
-#EXTINF:-1 group-title="18禁频道",Interracial
-http://cdn.redtraffic.net/interracial.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 group-title="18禁频道",Adult Time
-http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6166/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Bdsm
-http://live.redtraffic.xyz/bdsm.m3u8
-#EXTINF:-1 group-title="18禁频道",Skinny Girls
-http://live.mycamtv.com/skinny.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 Babestation,
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="18禁频道",18禁频道1 PLAYBOY 2
-http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Hustler HD
-http://213.226.69.130/iptv/BF9GWX8VNPYM9X/244/index.m3u8
-#EXTINF:-1 group-title="18禁频道",Eropulse TV,
-http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-
 #📺 待测试
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
@@ -2054,4 +1464,137 @@ https://cdn.jsdelivr.net/gh/gh2022000006/mv06@14d3b566afb4975f4e431db93593712a14
 https://cdn.jsdelivr.net/gh/gh2022000007/mv07@7e2801d982b0cd434208399c2ced6eb7f9446c8c/0002905.JuneLiu 刘玥 2021,01,04 2001045121 Jl 005 Berlin Xbiz Room.mp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020.12.09 1413937688 Jl 100 Blowing Riding A Geek Dick Full Version P Int,
 https://cdn.jsdelivr.net/gh/gh2022000007/mv07@fbf507b05a31c2a96d97a26c7dec4f9d8606093f/0002904.JuneLiu 刘玥 2020.12.09 1413937688 Jl 100 Blowing Riding A Geek Dick Full Version P Int.mp4.m3u8
+#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 Juneliu 2021,01,04 2001072043 Jl 046 Amwf Good Fuck For An Interview
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@82a6ce4e6c2859bb355f3e061e047a1ce094d800/0002915.刘玥 Juneliu 2021,01,04 2001072043 Jl 046 Amwf Good Fuck For An Interview.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 Juneliu 2021,01,04 2001071896 Jl 068 Chinese Guy Fucks A Blond Girl
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@76aa7f467f4a42e7b9577403fed93e3dd0fc72de/0002914.刘玥 Juneliu 2021,01,04 2001071896 Jl 068 Chinese Guy Fucks A Blond Girl.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001062939 Jl 031 Asian Riding A Dick Like A Pro Creampie Sloppy
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@015be6c527daadff3cf32e607c64382c8246c6e9/0002913.JuneLiu 刘玥 2021,01,04 2001062939 Jl 031 Asian Riding A Dick Like A Pro Creampie Sloppy B.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001059832 Jl 039 Back To Origins, Simple But Good
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@3a9b5762f6bed9addbf2170d7a12a5d99b56368f/0002912.JuneLiu 刘玥 2021,01,04 2001059832 Jl 039 Back To Origins, Simple But Good.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001059670 Jl 040 Bonus Threesome In Paris
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@39044d1b65d2791e74ae9a253ed73676913e4334/0002911.JuneLiu 刘玥 2021,01,04 2001059670 Jl 040 Bonus Threesome In Paris.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001051108 Jl 020 Rough Sex And Bj In A Duplex Cim
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@a2840d77d034a0691ecd135a7ac7697f4dce55e4/0002910.JuneLiu 刘玥 2021,01,04 2001051108 Jl 020 Rough Sex And Bj In A Duplex Cim.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001049828 Jl 018 Asian Having Fun In Bathroom
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@c4c00e3687c5aaa6cb05b15de53a95dfcbcfb274/0002909.JuneLiu 刘玥 2021,01,04 2001049828 Jl 018 Asian Having Fun In Bathroom.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001049433 Jl 017 Sex Service From A Chinese Cutie
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@4574d7ff1163a5338589309439cc1d3e642ea8d4/0002908.JuneLiu 刘玥 2021,01,04 2001049433 Jl 017 Sex Service From A Chinese Cutie.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001049029 Jl 015 Amateur Asian Sex Kissin
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@a9103e2f2b1db7be5108771f5c6caa82dd8c2008/0002907.JuneLiu 刘玥 2021,01,04 2001049029 Jl 015 Amateur Asian Sex Kissing.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001048033 Jl 013 Fucked By Bad Santa
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@14d3b566afb4975f4e431db93593712a14db1b73/0002906.JuneLiu 刘玥 2021,01,04 2001048033 Jl 013 Fucked By Bad Santa.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2021,01,04 2001045121 Jl 005 Berlin Xbiz Room
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@7e2801d982b0cd434208399c2ced6eb7f9446c8c/0002905.JuneLiu 刘玥 2021,01,04 2001045121 Jl 005 Berlin Xbiz Room.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020.12.09 1413937688 Jl 100 Blowing Riding A Geek Dick Full Version P Int
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@fbf507b05a31c2a96d97a26c7dec4f9d8606093f/0002904.JuneLiu 刘玥 2020.12.09 1413937688 Jl 100 Blowing Riding A Geek Dick Full Version P Int.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020.11.27 1341231312 Jl 104 Ffm Backstage Zia Got Creampied June Caught Zia S
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@fd4ca33d1645bfc3344d65cb77f80a87b9220b35/0002903.JuneLiu 刘玥 2020.11.27 1341231312 Jl 104 Ffm Backstage Zia Got Creampied June Caught Zia S.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020.11.19 1294167491 Jl 098 40 Mins Lesbian Video Indian Asian Lesbian Hot
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@97e35a97e27dbad6f624c05421f63ac58271a5e2/0002902.JuneLiu 刘玥 2020.11.19 1294167491 Jl 098 40 Mins Lesbian Video Indian Asian Lesbian Hot.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020.07.16 545094963 Jl 087 Long Hair Chinese Girl In Blue Lingerie Good Sex In
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@86087555ca758a9cd34c3546ee4a23390083cb98/0002901.JuneLiu 刘玥 2020.07.16 545094963 Jl 087 Long Hair Chinese Girl In Blue Lingerie Good Sex In.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020.05.27 364013463 Jl 056 Asian Girls Riding A Guy June In Black Chinese Dres
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@c783a2276ca5b1e3a0c0bfb09f80a981b53fdc84/0002900.JuneLiu 刘玥 2020.05.27 364013463 Jl 056 Asian Girls Riding A Guy June In Black Chinese Dres.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020,12,09 1413937688 Jl 100 Blowing Riding A Geek Dick Full Version P Int
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@16308885b6fbc7723ca431495f1652ae396300b0/0002899.JuneLiu 刘玥 2020,12,09 1413937688 Jl 100 Blowing Riding A Geek Dick Full Version P Int.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020,11,27 1341231312 Jl 104 Ffm Backstage Zia Got Creampied June Caught Zia S
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@1982f275994c897699a6899dc359915a6654053b/0002898.JuneLiu 刘玥 2020,11,27 1341231312 Jl 104 Ffm Backstage Zia Got Creampied June Caught Zia S.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 2020,11,19 1294167491 Jl 098 40 Mins Lesbian Video Indian Asian Lesbian Hot
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@d8dfd2890a3c56941d89ae458d62b842a5de095a/0002897.JuneLiu 刘玥 2020,11,19 1294167491 Jl 098 40 Mins Lesbian Video Indian Asian Lesbian Hot.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 -Asian Teen Gfe Experience  Long Socks Converse (Free For Fans) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@f0bf1c2c3543198fe0d4294695c2d4b8bd4b7d55/0002896.JuneLiu 刘玥 -Asian Teen Gfe Experience  Long Socks Converse (Free For Fans) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥  Spicygum 热辣啪啪糖 玩游戏还是玩可AI的我？
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@3c6e5b6657cc118d87d1c9c2ea81a9398d0cc1fe/0002895.JuneLiu 刘玥  Spicygum 热辣啪啪糖 玩游戏还是玩可AI的我？.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥   Spicygum - Quarantine Sex Video Call Game With Kate (Short V) - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@24afdb5f4d57bfc8e6fc4ba5f1e3045a161d6a2e/0002894.JuneLiu 刘玥   Spicygum - Quarantine Sex Video Call Game With Kate (Short V) - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 Spicygum Ft Xiaoyu - Asian Chinese Teens Double Blow Job (Bday)
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@a7d53f3f1c4a3af7dc35bb2003bd860839b7f77c/0002893.JuneLiu 刘玥 Spicygum Ft Xiaoyu - Asian Chinese Teens Double Blow Job (Bday).mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 Spicygum - Chinese Teen With German Bf Sex Drama (Short Version)
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@fa72c417386ef7d1660616cde6b737cbdc0ffbdf/0002892.JuneLiu 刘玥 Spicygum - Chinese Teen With German Bf Sex Drama (Short Version).mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 Ft Xiaoyu Li - Lesbian Temptation  Licking Pussy  Kissing (Part 2) - Pornhub
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@155cf2288e9eadef6c7d845079ad5f2cbefd0c64/0002891.JuneLiu 刘玥 Ft Xiaoyu Li - Lesbian Temptation  Licking Pussy  Kissing (Part 2) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 Ft Xiaoyu Li - Lesbian Temptation  Licking Pussy  Kissing (Part 1) - Pornhub
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@ce18616ed522b26ee8eb14bc416a20dbaec826f5/0002890.JuneLiu 刘玥 Ft Xiaoyu Li - Lesbian Temptation  Licking Pussy  Kissing (Part 1) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 And Zia Team Up On My Cock, Cellphone Preview - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@906ef5e3d2e978a2e53835c16fe9d3d04eb4fe7d/0002889.JuneLiu 刘玥 And Zia Team Up On My Cock, Cellphone Preview - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 Aka Spicygum - Horny Chinese Teen   Asian Exchange Student (刘玥) - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@b7734462fa10f59c266f48bcadf0fc28e1b6b380/0002888.JuneLiu 刘玥 Aka Spicygum - Horny Chinese Teen   Asian Exchange Student (刘玥) - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 20211104 Jl 123 Eat Under My Feet (Chinese Joi With English Subtitles)
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@3d31bf1c4e2032e1217525de977efceeeffa2504/0002887.JuneLiu 刘玥 20211104 Jl 123 Eat Under My Feet (Chinese Joi With English Subtitles).mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 - Naughty Chinese Student - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@0359a15ff9fafa6510ba172c705a2d0f5f3a4ab7/0002886.JuneLiu 刘玥 - Naughty Chinese Student - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 - Fan's Custom Video, Sex & Bj In Guy's Duplex (Free For Fans) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@15ab9fd9219e890f5d680a5b6e37a1978321674c/0002885.JuneLiu 刘玥 - Fan's Custom Video, Sex & Bj In Guy's Duplex (Free For Fans) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥 - Chinese Student   Fucked & Blow Job - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@791a39d054d99d8a0c3034019c5edc6a4288edea/0002884.JuneLiu 刘玥 - Chinese Student   Fucked & Blow Job - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥   Spicygum Ft Xiaoyu - Asian Chinese Teens Double Blow Job (Bday) - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@8ba912c531ed2ac4b27b7dbea43e3fd975d8c8b3/0002883.JuneLiu 刘玥   Spicygum Ft Xiaoyu - Asian Chinese Teens Double Blow Job (Bday) - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥   Spicygum - Tinder Date Blow Job - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@dd956b986ec413284cb0af51444600aca7745c35/0002882.JuneLiu 刘玥   Spicygum - Tinder Date Blow Job - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥   Spicygum - Chinese Teen Trying New Toys   Part 1   Pornhub Toys Unboxing! - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@01a4db62b7c201977499649cee55d379da5a7291/0002881.JuneLiu 刘玥   Spicygum - Chinese Teen Trying New Toys   Part 1   Pornhub Toys Unboxing! - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥   Spicygum - Asian Teen Riding A Guy's Face And Squirt In Mouth - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@0faaa92d133111911536c51deb40012b4e5a06ea/0002880.JuneLiu 刘玥   Spicygum - Asian Teen Riding A Guy's Face And Squirt In Mouth - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥   Spicygum - Asian Teen Intense Sex  2 Cumshots (Short V) - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@42c3be3feafe85a2a6a44b1feb22d3cff3d84692/0002879.JuneLiu 刘玥   Spicygum - Asian Teen Intense Sex  2 Cumshots (Short V) - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥   Spicygum - Asian Chinese Teen Giving Quick Blowjob   Gfe - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@f47ae172f257f599dbfe43ba750eadcf025d3827/0002878.JuneLiu 刘玥   Spicygum - Asian Chinese Teen Giving Quick Blowjob   Gfe - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu 刘玥   Spicygum - Asian - Chinese Teen Trying The New Pornhub Toy   Spell Wand   Part 2 - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@692992236ecb10166616ec582c6db5431e58701d/0002877.JuneLiu 刘玥   Spicygum - Asian - Chinese Teen Trying The New Pornhub Toy   Spell Wand   Part 2 - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu - Quick Blowjob After Dinner (刘玥)
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@3c95926e4a971b4e7676b4f7e4c6e50b64371e14/0002876.JuneLiu - Quick Blowjob After Dinner (刘玥).mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu - Outdoor Blowjob By A Hot Chinese Teen (刘玥) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@4ac2f5b86fb6c416966f641eedaaaa4eeee8aa60/0002875.JuneLiu - Outdoor Blowjob By A Hot Chinese Teen (刘玥) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",uneLiu - Naugthy Chinese Student Got A Good Lesson #Backtoschool2019 (刘玥) - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@fae6441dfd36cb8caa046544d0cf0e6517defdb8/0002874.JuneLiu - Naugthy Chinese Student Got A Good Lesson #Backtoschool2019 (刘玥) - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu - Cute Asian Teen Having Sex (刘玥) Edit
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@36f9adc7a6e682d7cb5050c5a517abd5c8958a9a/0002873.JuneLiu - Cute Asian Teen Having Sex (刘玥) Edit.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu - Cute Asian Teen Having Sex (刘玥) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@ec461eecf61443ab9a8e884011daf5c957332821/0002872.JuneLiu - Cute Asian Teen Having Sex (刘玥) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu - Asian Having Fun In Bathroom (刘玥) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@7bf93ca66b3147c9790d9a3128fb3da462ea84ef/0002871.JuneLiu - Asian Having Fun In Bathroom (刘玥) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu - Asian Chinese Teen Fucked Hard (Spicygum's Tribute To A Fan)(刘玥) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@a233df18dbe8485b80ae7e496aee5e3be7d4ab1e/0002870.JuneLiu - Asian Chinese Teen Fucked Hard (Spicygum's Tribute To A Fan)(刘玥) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JuneLiu   Spicygum - Soft Amateur Sex & Kissing (刘玥) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@e4fc48608078d1ed454bdda17a9642187be081a9/0002869.JuneLiu   Spicygum - Soft Amateur Sex & Kissing (刘玥) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",租房交易-刘玥
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@933625ba6c56baebfab179cc06930c26673530fd/0002868.租房交易-刘玥.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 《新年贺岁档》回家的诱惑
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@620a19e90629c3f915c337237103f0a4cb71d1bc/0002867.刘玥 《新年贺岁档》回家的诱惑.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 June Liu   Spicygum - My First Time Enjoying Squirting Experience - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@50a6037ab23e1563317b2a39c68059e6b08b1b51/0002866.刘玥 June Liu   Spicygum - My First Time Enjoying Squirting Experience - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 June Liu   Spicygum - Morning Blowjob By Cute Asian Student - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000009/mv09@7ea9d9b55b60d211a6c444490aa4529e3666118d/0002865.刘玥 June Liu   Spicygum - Morning Blowjob By Cute Asian Student - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 June Liu   Spicygum - Cute Asian Student Practicing Chinese Massage In Bath - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@207a62c5e721324d5e446a8dd06883d217248f7d/0002864.刘玥 June Liu   Spicygum - Cute Asian Student Practicing Chinese Massage In Bath - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 June Liu   Spicygum - Chinese Teen With German Bf Sex Drama (Short Version) - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@ab5abeeb7713379d9cb731a9691a00135b4d6d63/0002863.刘玥 June Liu   Spicygum - Chinese Teen With German Bf Sex Drama (Short Version) - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 June Liu   Spicygum - Chinese Girl Gettin Multiple Orgasms (Lelo Sona) Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@175c9525bc1e09b56cc0932aff78e0c25c1a12cd/0002862.刘玥 June Liu   Spicygum - Chinese Girl Gettin Multiple Orgasms (Lelo Sona) Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 June Liu   Spicygum - Chinese Girl Gettin Fun In Berlin - Pornhub.Com
+https://cdn.jsdelivr.net/gh/gh2022000008/mv008@da19a2a3f7f7007a4cafc084b1c1ad689c08b96a/0002861.刘玥 June Liu   Spicygum - Chinese Girl Gettin Fun In Berlin - Pornhub.Com.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 June Liu   Spicygum - Chinese Cutie Gives A Footjob & Handjob - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@791a373d676b73b05a60198278404af86f661515/0002860.刘玥 June Liu   Spicygum - Chinese Cutie Gives A Footjob & Handjob - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 June Liu   Spicygum - Bad Santa Fucking Hard An Innocent Asian Girl (Long) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@9f03512fe88dedc62bfdf3e6638eb3f14d1b4bbf/0002859.刘玥 June Liu   Spicygum - Bad Santa Fucking Hard An Innocent Asian Girl (Long) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 Blowjob And Fuck With June Liu On The Balcony Ziaxbite
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@c0436e323d74ff0e37e7e3386b34cb5ab6759414/0002858.刘玥 Blowjob And Fuck With June Liu On The Balcony Ziaxbite.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 Asian Chinese Teen Back To Origins Making Love (Fantribute  Free For Fans) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000007/mv07@0cb2e7e750ceafe7fcbd9fa7dd1ae35c9380dccd/0002857.刘玥 Asian Chinese Teen Back To Origins Making Love (Fantribute  Free For Fans) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",刘玥 3 Girls 1 Guy Reversed Gangbang Ft. June Liu And Xiaoyu Li- 4K Pov Fffm Ziaxbite
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@3ea2eb381f0d6fd3f025ba562b5d51b7004f5faf/0002856.刘玥 3 Girls 1 Guy Reversed Gangbang Ft. June Liu And Xiaoyu Li- 4K Pov Fffm Ziaxbite.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",June Liu Spicygum 刘玥 Creampie In Europe - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@941732246fd2b64bcbaedbc9e31ee850e2f61229/0002855.June Liu Spicygum 刘玥 Creampie In Europe - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",June Liu Asian Amateur Creampie - Spicygum 刘玥 In Paris - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@f172175c6392c6dd8f12febcc7ed89598df7d619/0002854.June Liu Asian Amateur Creampie - Spicygum 刘玥 In Paris - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",June Liu   Spicygum - Blowjob After Nap (刘玥) (Free For Fans) (Homemade Ama) - Pornhub
+https://cdn.jsdelivr.net/gh/gh2022000006/mv06@f0738fc3fff8d5c0cfd557fc902b93c1cfd9dd36/0002853.June Liu   Spicygum - Blowjob After Nap (刘玥) (Free For Fans) (Homemade Ama) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",June Liu   Spicygum - Asian Girl 3Som With 2 White Guys (100% Amateur) (刘玥) - Pornhub
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@9a9fe7944d239f3a1756072829cd110f67ddaa5a/0002852.June Liu   Spicygum - Asian Girl 3Som With 2 White Guys (100% Amateur) (刘玥) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",June Liu   Spicygum - Asian Blow Job In Berlin (刘玥) (Free For Fans) - Pornhub
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@ffa328d86f2f3e6a62f2de0577c1c19b85243e9f/0002851.June Liu   Spicygum - Asian Blow Job In Berlin (刘玥) (Free For Fans) - Pornhub.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",June Liu   Spicygum - 3P Asian Fucking On Parisian Balcony (刘玥)Long V Hd - Pornhub
+https://cdn.jsdelivr.net/gh/gb2022000005/mv05@89504d825eddf9526aca3f7d47e7ee3ed1504de9/0002850.June Liu   Spicygum - 3P Asian Fucking On Parisian Balcony (刘玥)Long V Hd - Pornhub.mp4.m3u8
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
