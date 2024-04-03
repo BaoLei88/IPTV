@@ -973,10 +973,6 @@ https://lunbo.freetv.top/yy/1354888736
 https://lunbo.freetv.top/yy/1382736802
 #EXTINF:-1,tvg-id="仙剑奇侠传" tvg-name="仙剑奇侠传" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/YY直播.png" group-title="🎥 影視轮播",仙剑奇侠传「YY」
 https://lunbo.freetv.top/yy/1382749903
-#EXTINF:-1,tvg-id="漫威超级英雄系列" tvg-name="漫威超级英雄系列" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/YY直播.png" group-title="🎥 影視轮播",漫威超级英雄「YY」
-https://lunbo.freetv.top/yy/1354932402
-#EXTINF:-1,tvg-id="熊出没之探险日记" tvg-name="熊出没之探险日记" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/熊出没.png" group-title="🎥 影視轮播",熊出没之探险日记-国漫「YY」
-https://lunbo.freetv.top/yy/1354930977
 #EXTINF:-1,tvg-id="末日系列-电影合集" tvg-name="末日系列-电影合集" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/YY直播.png" group-title="🎥 影視轮播",末日系列-电影合集「YY」
 https://lunbo.freetv.top/yy/1354889019
 #EXTINF:-1,tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/YY直播.png" group-title="🎥 影視轮播",以家人之名「YY」
@@ -1075,6 +1071,10 @@ http://11.xmyxc.cn/api/php/yy.php?id=1354210357
 http://cfss.cc/cdn/hy/11352906.flv
 #EXTINF:-1,tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/灌篮高手.png" group-title="🎥 动漫电影",灌篮高手「YY」
 https://lunbo.freetv.top/yy/1356243352
+#EXTINF:-1,tvg-id="漫威超级英雄系列" tvg-name="漫威超级英雄系列" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/YY直播.png" group-title="🎥 动漫电影",漫威超级英雄「YY」
+https://lunbo.freetv.top/yy/1354932402
+#EXTINF:-1,tvg-id="熊出没之探险日记" tvg-name="熊出没之探险日记" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/熊出没.png" group-title="🎥 动漫电影",熊出没之探险日记-国漫「YY」
+https://lunbo.freetv.top/yy/1354930977
 
 #📺 明星电影
 #EXTINF:-1,tvg-id="林正英电影" tvg-name="林正英电影" tvg-logo="https://live.5iclub.dedyn.io/STAGE/HD/YY直播.png" group-title="🎥 明星电影",林正英•电影「YY」
